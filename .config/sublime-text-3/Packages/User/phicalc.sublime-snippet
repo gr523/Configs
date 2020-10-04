@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+ll calcphi(ll n){
+	ll val=sqrt(n)+1,s=n;
+	for(ll i=2;i<val;++i){
+		if(n%i==0){
+			s*=(i-1),s/=i;
+			while(n%i==0) n/=i;
+		}
+	}
+
+	if(n>1) s*=(n-1),s/=n;
+
+	return s;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

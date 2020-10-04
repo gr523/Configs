@@ -1,0 +1,19 @@
+{
+	"cmd": ["bash", "-c", "g++ -g -Dlocalhost -fsanitize=undefined -std=c++17 '${file}' -o '/home/fahim/Codes/X/Program' && gnome-terminal -- bash -c '\"/home/fahim/Codes/X/Program\" ; read'"],
+
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "/home/fahim/Codes/X",
+	"selector": "source.c++",
+
+	"variants":
+	[
+		{
+			"name": "shell",
+			"shell_cmd": "g++ -g -fsanitize=undefined -std=c++17 -Dlocalhost  \"${file}\" -o \"/home/fahim/Codes/X/Program\" && \"/home/fahim/Codes/X/Program\""
+		},
+		{
+			"name": "terminal",
+			"cmd": ["bash", "-c", "g++ -g -Dlocalhost -fsanitize=undefined -std=c++17 '${file}' -o '/home/fahim/Codes/X/Program' && gnome-terminal -- bash -c '\"/home/fahim/Codes/X/Program\" ; read'"]
+		}
+	]
+}

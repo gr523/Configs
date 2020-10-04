@@ -1,0 +1,27 @@
+2
+12
+id: 6b37c23f-652c-4de7-9617-2f29132205f6
+file: Assassin's Creed II.rar
+category: 50
+state: 100
+folder: /home/fahim/Assassins Creed II
+date: 2020-09-10 21:02:42
+downloaded: 5836535739
+size: 5836535739
+progress: 99
+tempfolder: /home/fahim/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 1ae1ddf9-9cfc-496f-aa15-abdfd63c9586
+file: Assassin's Creed II-CorePack.iso
+category: 60
+state: 100
+folder: /home/fahim/Assassins Creed II
+date: 2020-09-22 13:32:44
+downloaded: 3013824512
+size: 3013824512
+progress: 99
+tempfolder: /home/fahim/.xdman/temp
+queueid: 
+formatIndex: 0

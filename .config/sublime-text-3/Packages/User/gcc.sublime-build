@@ -1,0 +1,32 @@
+{
+
+	"cmd": ["bash", "-c", "gcc -g -fsanitize=undefined '${file}' -o '/home/fahim/Codes/X/Program' && gnome-terminal -- bash -c '/home/fahim/Codes/X/Program ; read'"
+			],
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "/home/fahim/Codes/X",
+	"selector": "source.c",
+
+	"variants":
+	[
+		
+
+		{
+			"name": ">",
+			"shell_cmd": "gcc -g -fsanitize=undefined ${file} -o /home/fahim/Codes/X/Program && /home/fahim/Codes/X/Program < Input.txt > Output.txt "
+		},
+
+		{
+			"name": "&>",
+			"shell_cmd": "gcc -g -fsanitize=undefined ${file} -o /home/fahim/Codes/X/Program && /home/fahim/Codes/X/Program < Input.txt &> Output.txt "
+		},
+
+		{
+			"name": "terminal",
+			"cmd": ["bash", "-c", "gcc -g -fsanitize=undefined '${file}' -o '/home/fahim/Codes/X/Program' && gnome-terminal -- bash -c '/home/fahim/Codes/X/Program<Input.txt ; read'"
+			]
+			
+		}
+
+	]
+
+}

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+ll lqa(ll *arr,int n,ll value){
+	ll i=lower_bound(arr,arr+n,value)-arr;
+	if(i==0 && arr[i]>value) return -1;
+	if(i==n) i--;
+	if(arr[i]>value && i) i--;	
+	return i;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++</scope>
+</snippet>

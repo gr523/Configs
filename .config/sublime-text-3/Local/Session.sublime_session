@@ -1,0 +1,1564 @@
+{
+	"folder_history":
+	[
+		"/home/fahim/Codes"
+	],
+	"last_version": 3211,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"exe",
+						"execute_script\tfunction"
+					],
+					[
+						"find",
+						"find_elements_by_link_text\tfunction"
+					],
+					[
+						"ex",
+						"execute_script\tfunction"
+					],
+					[
+						"fin",
+						"find_element_by_xpath\tfunction"
+					],
+					[
+						"c",
+						"common\tmodule"
+					],
+					[
+						"ce",
+						"clockend\tclockend"
+					],
+					[
+						"cs",
+						"clockstart\tclockstart"
+					],
+					[
+						"del",
+						"del_player"
+					],
+					[
+						"inse",
+						"insert_player"
+					],
+					[
+						"in",
+						"inclocal\t#include \"…\""
+					],
+					[
+						"clu",
+						"clubname"
+					],
+					[
+						"de",
+						"del_player"
+					],
+					[
+						"pla",
+						"playername"
+					],
+					[
+						"f",
+						"flush\tparam"
+					],
+					[
+						"club",
+						"club2"
+					],
+					[
+						"inc",
+						"income"
+					],
+					[
+						"so",
+						"showAll"
+					],
+					[
+						"Cl",
+						"Clubs"
+					],
+					[
+						"s",
+						"sqrt\tfunction"
+					],
+					[
+						"st",
+						"__stdout__\tstatement"
+					],
+					[
+						"fa",
+						"factorial\tfunction"
+					],
+					[
+						"ar",
+						"argvm"
+					],
+					[
+						"sho",
+						"showAll_reverse"
+					],
+					[
+						"insert_",
+						"insert_front"
+					],
+					[
+						"ins",
+						"insert_back"
+					],
+					[
+						"pre",
+						"prev"
+					],
+					[
+						"pr",
+						"prev"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"ma",
+						"maxRelavence"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						"&>"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/g++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/g++.sublime-build",
+						">"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/gcc.sublime-build",
+							""
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/gcc.sublime-build",
+						">"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"set",
+						"Set Syntax: Python"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"bash",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"set Bas",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"set sytax Pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"Pckage V",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"view",
+						"View Package File"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"ter",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"IN",
+						"Snippet: Input"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"terminas",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"INp",
+						"Snippet: Input"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 165.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/fahim/Codes/Codeforces/AandBandChess.cpp",
+				"/home/fahim/Codes/Codeforces/Watchmen.cpp",
+				"/home/fahim/Codes/Scripts/browserautomate1.py",
+				"/home/fahim/Codes/X/Output.txt",
+				"/home/fahim/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+				"/home/fahim/Codes/Testing/justout.cpp",
+				"/home/fahim/.config/sublime-text-3/Packages/User/g++.sublime-build",
+				"/home/fahim/Codes/Codeforces/LuckyPermutationTriple.cpp",
+				"/home/fahim/Codes/Codeforces/DrazilandFactorial.cpp",
+				"/home/fahim/Codes/RunTime/K.cpp",
+				"/home/fahim/Codes/RunTime/H.cpp",
+				"/home/fahim/Codes/RunTime/E.cpp",
+				"/home/fahim/Codes/RunTime/C.cpp",
+				"/home/fahim/Codes/RunTime/D.cpp",
+				"/home/fahim/Codes/RunTime/J.cpp",
+				"/home/fahim/Codes/RunTime/B.cpp",
+				"/home/fahim/Codes/RunTime/A.cpp",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/Complete_System_Full_Code.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/insert.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task4_CompleteSystem.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/printing.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/delete.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task3_swap.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task2_initial_system.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/swap.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/insertion.c",
+				"/home/fahim/Codes/Scripts/test_pt.py",
+				"/home/fahim/Codes/Scripts/strReplace.py",
+				"/home/fahim/Codes/Scripts/class_test.py",
+				"/home/fahim/Codes/Scripts/readfile.py",
+				"/home/fahim/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/fahim/.config/sublime-text-3/Packages/Default/arithmetic.py",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/test_4108_10.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task1_structure.c",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task3_hardmode.c",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task2_append.c",
+				"/home/fahim/Codes/Codeforces/GivenLengthandSumofDigits.cpp",
+				"/home/fahim/Codes/X/in",
+				"/home/fahim/Codes/X/out",
+				"/home/fahim/Codes/Scripts/hello.py",
+				"/home/fahim/Codes/Scripts/key.py",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task1.c",
+				"/home/fahim/Codes/Assignments/FileIO/task2_append.c",
+				"/home/fahim/Codes/Assignments/FileIO/task3_hardmode.c",
+				"/home/fahim/Codes/Assignments/FileIO/task5_compare.c",
+				"/home/fahim/Codes/Assignments/FileIO/test.c",
+				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.3.c",
+				"/home/fahim/Codes/X/newname",
+				"/home/fahim/Codes/X/file.txt",
+				"/home/fahim/Codes/X/file",
+				"/home/fahim/Codes/Assignments/FileIO/task1.c",
+				"/home/fahim/Codes/Assignments/FileIO/task2.c",
+				"/home/fahim/Codes/Assignments/FileIO/task4_readwrite.c",
+				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.2.c",
+				"/home/fahim/Codes/Assignments/FileIO/file",
+				"/home/fahim/Codes/Codeforces/PaintingEggs.cpp",
+				"/home/fahim/Codes/Codeforces/PashaMaximizes.cpp",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/main.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/insertion.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/deletion.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/Dynamic.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/test_LiinkedList.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/printing.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/VariableList.c",
+				"/home/fahim/Codes/Testing/test.cpp"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 114.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"push_back",
+					"pop()",
+					"push",
+					"a38",
+					"bcbt",
+					"arr",
+					"n",
+					"l",
+					"i",
+					"int",
+					"\\n",
+					"del",
+					"Del",
+					"del",
+					"printf",
+					"-",
+					"printf",
+					"x",
+					"club2",
+					"club1",
+					"tmp",
+					"clubs",
+					"s",
+					".first",
+					"r",
+					"R",
+					"r",
+					"R",
+					"'",
+					"argvm",
+					"\"file.txt\"",
+					"argv[1]",
+					"ch",
+					"h",
+					"test",
+					"est",
+					"position",
+					"flag",
+					"test",
+					"printf(\"Error\\n\");\n            return;",
+					"err",
+					"Err",
+					"err",
+					"arr[i][j]",
+					"i",
+					"j",
+					"a",
+					"printf(\"Index Out of Bounds\\n\")",
+					"}",
+					"ans"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 99.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/g++.sublime-build",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wat",
+						"Codeforces/Watchmen.cpp"
+					],
+					[
+						"ju",
+						"Testing/justout.cpp"
+					],
+					[
+						"jus",
+						"Testing/justout.cpp"
+					],
+					[
+						"paint",
+						"Codeforces/PaintingEggs.cpp"
+					],
+					[
+						"tes",
+						"Testing/test.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 305.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sta",
+						"start_j"
+					],
+					[
+						"st",
+						"start_i"
+					],
+					[
+						"vi",
+						"visited"
+					],
+					[
+						"max",
+						"maxstudents"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"stu",
+						"student"
+					],
+					[
+						"cour",
+						"courseinfo"
+					],
+					[
+						"cou",
+						"courseinfo"
+					],
+					[
+						"col",
+						"collectmarks"
+					],
+					[
+						"sho",
+						"showdetails"
+					],
+					[
+						"show",
+						"showdetails"
+					],
+					[
+						"gpa",
+						"gpa"
+					],
+					[
+						"co",
+						"collectmarks"
+					],
+					[
+						"ma",
+						"marks"
+					],
+					[
+						"fi",
+						"fillinfo"
+					],
+					[
+						"sec",
+						"section"
+					],
+					[
+						"de",
+						"dept"
+					],
+					[
+						"re",
+						"residence"
+					],
+					[
+						"string",
+						"string.h\tstandard header (deprecated)"
+					],
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"lcm",
+						"lcmof2"
+					],
+					[
+						"ta",
+						"tables"
+					],
+					[
+						"lc",
+						"lcmof2"
+					],
+					[
+						"pri",
+						"primes"
+					],
+					[
+						"so",
+						"sorzero\tsorzero"
+					],
+					[
+						"vs",
+						"vreversesort\tvrsort"
+					],
+					[
+						"sor",
+						"sort\tsort"
+					],
+					[
+						"si",
+						"sieve"
+					],
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"exe",
+						"execute_script\tfunction"
+					],
+					[
+						"find",
+						"find_elements_by_link_text\tfunction"
+					],
+					[
+						"ex",
+						"execute_script\tfunction"
+					],
+					[
+						"fin",
+						"find_element_by_xpath\tfunction"
+					],
+					[
+						"c",
+						"common\tmodule"
+					],
+					[
+						"ce",
+						"clockend\tclockend"
+					],
+					[
+						"cs",
+						"clockstart\tclockstart"
+					],
+					[
+						"del",
+						"del_player"
+					],
+					[
+						"inse",
+						"insert_player"
+					],
+					[
+						"clu",
+						"clubname"
+					],
+					[
+						"pla",
+						"playername"
+					],
+					[
+						"f",
+						"flush\tparam"
+					],
+					[
+						"club",
+						"club2"
+					],
+					[
+						"inc",
+						"income"
+					],
+					[
+						"Cl",
+						"Clubs"
+					],
+					[
+						"s",
+						"sqrt\tfunction"
+					],
+					[
+						"fa",
+						"factorial\tfunction"
+					],
+					[
+						"ar",
+						"argvm"
+					],
+					[
+						"insert_",
+						"insert_front"
+					],
+					[
+						"ins",
+						"insert_back"
+					],
+					[
+						"pre",
+						"prev"
+					],
+					[
+						"pr",
+						"prev"
+					],
+					[
+						"ne",
+						"next"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/fahim/Codes/X/Input.txt",
+					"settings":
+					{
+						"buffer_size": 3,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/fahim/Codes/Testing/justout.cpp",
+					"settings":
+					{
+						"buffer_size": 722,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/fahim/Codes/X/Output.txt",
+					"settings":
+					{
+						"buffer_size": 3,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/g++.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						"&>"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/g++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/g++.sublime-build",
+						">"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/g++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/g++.sublime-build",
+						">"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/gcc.sublime-build",
+							""
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/gcc.sublime-build",
+						">"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pasc",
+						"Snippet: pascal"
+					],
+					[
+						"big",
+						"Snippet: BigMod"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"sie",
+						"Snippet: sieve"
+					],
+					[
+						"se",
+						"Set Syntax: C++"
+					],
+					[
+						"coun",
+						"Snippet: countdivisors"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"asty",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"set",
+						"Set Syntax: Python"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"bash",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"set Bas",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"set sytax Pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"Pckage V",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"view",
+						"View Package File"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"ter",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"IN",
+						"Snippet: Input"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"terminas",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"INp",
+						"Snippet: Input"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 165.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/fahim/Codes"
+			],
+			"file_history":
+			[
+				"/home/fahim/Codes/SPOJ/Bitmap.cpp",
+				"/home/fahim/Codes/Testing/justout.cpp",
+				"/home/fahim/Codes/Testing/justout.c",
+				"/home/fahim/Codes/Vjudge/Corona2/powerpuff.cpp",
+				"/home/fahim/Codes/UVA/KnightMoves.cpp",
+				"/home/fahim/Codes/X/courses.txt",
+				"/home/fahim/Codes/X/marks.txt",
+				"/home/fahim/Codes/X/students.txt",
+				"/home/fahim/Codes/Assignments/CSE_4108_11/test_file_io.cpp",
+				"/home/fahim/Desktop/Codes/Assignments/CSE_4108_11/190041139_Lab11.c",
+				"/home/fahim/Codes/X/Output.txt",
+				"/home/fahim/Codes/Assignments/CSE_4108_11/190041139_Lab11.c",
+				"/home/fahim/Codes/UVA/Mint.cpp",
+				"/home/fahim/Codes/Codeforces/Hamburgers.cpp",
+				"/home/fahim/Codes/UVA/TheLottery.cpp",
+				"/home/fahim/.config/sublime-text-3/Packages/User/g++.sublime-build",
+				"/home/fahim/Codes/Number Theory/GCDSum.cpp",
+				"/home/fahim/Desktop/TL-WR840N_files/menu.js",
+				"/home/fahim/Desktop/TL-WR840N.mhtml",
+				"/home/fahim/Desktop/TL-WR840N_files/MenuRpm.html",
+				"/home/fahim/Codes/UVA/summationoffourprimes.cpp",
+				"/home/fahim/Codes/UVA/twinprime.cpp",
+				"/home/fahim/Codes/RunTime/B.cpp",
+				"/home/fahim/Codes/RunTime/A.cpp",
+				"/home/fahim/Codes/Codeforces/DuffinLove.cpp",
+				"/home/fahim/Codes/Codeforces/FoxAndDividingCheese.cpp",
+				"/home/fahim/Codes/Codeforces/Watchmen.cpp",
+				"/home/fahim/.config/sublime-text-3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+				"/home/fahim/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+				"/home/fahim/Codes/Codeforces/AandBandChess.cpp",
+				"/home/fahim/Codes/Scripts/browserautomate1.py",
+				"/home/fahim/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+				"/home/fahim/Codes/Codeforces/LuckyPermutationTriple.cpp",
+				"/home/fahim/Codes/Codeforces/DrazilandFactorial.cpp",
+				"/home/fahim/Codes/RunTime/K.cpp",
+				"/home/fahim/Codes/RunTime/H.cpp",
+				"/home/fahim/Codes/RunTime/E.cpp",
+				"/home/fahim/Codes/RunTime/C.cpp",
+				"/home/fahim/Codes/RunTime/D.cpp",
+				"/home/fahim/Codes/RunTime/J.cpp",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/Complete_System_Full_Code.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/insert.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task4_CompleteSystem.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/printing.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/delete.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task3_swap.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task2_initial_system.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/swap.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/insertion.c",
+				"/home/fahim/Codes/Scripts/test_pt.py",
+				"/home/fahim/Codes/Scripts/strReplace.py",
+				"/home/fahim/Codes/Scripts/class_test.py",
+				"/home/fahim/Codes/Scripts/readfile.py",
+				"/home/fahim/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/fahim/.config/sublime-text-3/Packages/Default/arithmetic.py",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/test_4108_10.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task1_structure.c",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task3_hardmode.c",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task2_append.c",
+				"/home/fahim/Codes/Codeforces/GivenLengthandSumofDigits.cpp",
+				"/home/fahim/Codes/X/in",
+				"/home/fahim/Codes/X/out",
+				"/home/fahim/Codes/Scripts/hello.py",
+				"/home/fahim/Codes/Scripts/key.py",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task1.c",
+				"/home/fahim/Codes/Assignments/FileIO/task2_append.c",
+				"/home/fahim/Codes/Assignments/FileIO/task3_hardmode.c",
+				"/home/fahim/Codes/Assignments/FileIO/task5_compare.c",
+				"/home/fahim/Codes/Assignments/FileIO/test.c",
+				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.3.c",
+				"/home/fahim/Codes/X/newname",
+				"/home/fahim/Codes/X/file.txt",
+				"/home/fahim/Codes/X/file",
+				"/home/fahim/Codes/Assignments/FileIO/task1.c",
+				"/home/fahim/Codes/Assignments/FileIO/task2.c",
+				"/home/fahim/Codes/Assignments/FileIO/task4_readwrite.c",
+				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.2.c",
+				"/home/fahim/Codes/Assignments/FileIO/file",
+				"/home/fahim/Codes/Codeforces/PaintingEggs.cpp",
+				"/home/fahim/Codes/Codeforces/PashaMaximizes.cpp",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/main.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/insertion.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/deletion.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/Dynamic.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/test_LiinkedList.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/printing.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/VariableList.c",
+				"/home/fahim/Codes/Testing/test.cpp"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 114.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rr",
+					"p",
+					"c",
+					"1",
+					"bfs",
+					"st.",
+					"st",
+					"section",
+					"prog",
+					"dept",
+					"year",
+					"marks",
+					"1",
+					"at",
+					"At",
+					"at",
+					"py",
+					"0",
+					"r",
+					"height",
+					"mem",
+					"0",
+					"arr",
+					"1",
+					"(r/pc+nc)/C",
+					"(r/pb+nb)/S",
+					"(r/pa+na)/B",
+					"*",
+					"pc",
+					"int",
+					"0",
+					"i",
+					"n",
+					"int",
+					"m",
+					"doclick",
+					"3",
+					"c",
+					"s1",
+					"+=",
+					"b",
+					"1",
+					"a",
+					"push_back",
+					"pop()",
+					"push",
+					"a38",
+					"bcbt",
+					"arr",
+					"n",
+					"l",
+					"i",
+					"int",
+					"\\n",
+					"del",
+					"Del",
+					"del",
+					"printf",
+					"-",
+					"printf",
+					"x",
+					"club2",
+					"club1",
+					"tmp",
+					"clubs",
+					"s",
+					".first",
+					"r",
+					"R",
+					"r",
+					"R",
+					"'",
+					"argvm",
+					"\"file.txt\"",
+					"argv[1]",
+					"ch",
+					"h",
+					"test",
+					"est",
+					"position",
+					"flag",
+					"test",
+					"printf(\"Error\\n\");\n            return;",
+					"err",
+					"Err",
+					"err",
+					"arr[i][j]",
+					"i",
+					"j",
+					"a",
+					"printf(\"Index Out of Bounds\\n\")",
+					"}",
+					"ans"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/fahim/Codes"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/fahim/Codes/X/Input.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/home/fahim/Codes/Testing/justout.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 722,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										184,
+										184
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/fahim/Codes/X/Output.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						2
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.261494222297,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.41969166601,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 99.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/g++.sublime-build",
+			"position": "0,0,0,0,0,2,18,1364,766,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"jus",
+						"Testing/justout.cpp"
+					],
+					[
+						"power",
+						"Vjudge/Corona2/powerpuff.cpp"
+					],
+					[
+						"Kni",
+						"UVA/KnightMoves.cpp"
+					],
+					[
+						"ju",
+						"Testing/justout.cpp"
+					],
+					[
+						"lott",
+						"UVA/TheLottery.cpp"
+					],
+					[
+						"summa",
+						"UVA/summationoffourprimes.cpp"
+					],
+					[
+						"wat",
+						"Codeforces/Watchmen.cpp"
+					],
+					[
+						"paint",
+						"Codeforces/PaintingEggs.cpp"
+					],
+					[
+						"tes",
+						"Testing/test.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 305.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

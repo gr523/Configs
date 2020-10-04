@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+ll BigMod(ll base,ll power,ll mod){
+	ll result=1;
+	while(power){
+		if(power&1)
+			result=(result*base)%mod;
+		base=(base*base)%mod;
+		power>>=1LL;
+	}
+	return result;
+}
+]]></content>
+<tabTrigger>bigmod</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+ll countdivisors(ll n){
+	ll c,total=1,N=n;	
+	for(int i=0;primes[i]*primes[i]<=n;++i){
+		if(n%primes[i]==0){
+			c=1;
+			while(n%primes[i]==0){
+				n/=primes[i];
+			.c++,source.c;
+			}
+			total*=c;
+		}
+	}
+	if(n>1) total<<=1;
+	return total;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

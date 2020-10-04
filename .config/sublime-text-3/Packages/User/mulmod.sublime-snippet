@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+ll mulmod(ll a,ll b,ll mod){
+    ll result = 0; a%=mod;
+    while(b){
+        if(b&1) 
+        	result = (result+a)%mod ;
+        a=(a<<1LL)%mod;
+        b>>=1LL;
+    }
+    return result%mod ;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

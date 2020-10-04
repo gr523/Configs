@@ -1,0 +1,9 @@
+<snippet>
+	<description>For Loop</description>
+	<content><![CDATA[for(int ${2:i}=1;$2<=${1:n};${3:++$2}){
+	
+}]]></content>
+	<tabTrigger>forone</tabTrigger>
+	<scope>source.c, source.objc, source.c++,source.c, source.objc++</scope>
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

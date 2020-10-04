@@ -1,0 +1,85 @@
+[settings-daemon/peripherals/touchpad]
+touchpad-enabled=true
+
+[settings-daemon/peripherals/keyboard]
+repeat-interval=uint32 30
+delay=uint32 500
+
+[/]
+enabled-applets=['panel1:left:0:menu@cinnamon.org:0', 'panel1:left:2:grouped-window-list@cinnamon.org:2', 'panel1:right:2:systray@cinnamon.org:3', 'panel1:right:3:xapp-status@cinnamon.org:4', 'panel1:right:4:notifications@cinnamon.org:5', 'panel1:right:6:removable-drives@cinnamon.org:7', 'panel1:right:7:keyboard@cinnamon.org:8', 'panel1:right:8:network@cinnamon.org:9', 'panel1:right:9:sound@cinnamon.org:10', 'panel1:right:10:power@cinnamon.org:11', 'panel1:right:11:calendar@cinnamon.org:12']
+workspace-osd-x=50
+workspace-osd-y=50
+next-applet-id=15
+enabled-desklets=@as []
+workspace-osd-visible=false
+workspace-osd-duration=400
+
+[desktop/interface]
+cursor-blink-time=1200
+clock-use-24h=false
+icon-theme='Mint-Y-Dark-Aqua'
+gtk-theme='Mint-Y-Dark-Aqua'
+toolkit-accessibility=false
+
+[desktop/keybindings/custom-keybindings/custom0]
+binding=['<Primary><Alt>t']
+command='pkill Program'
+name='kill Program'
+
+[desktop/keybindings]
+custom-list=['custom0']
+
+[desktop/keybindings/media-keys]
+terminal=['<Super>t']
+area-screenshot-clip=['<Super>Print']
+
+[desktop/keybindings/wm]
+maximize=['<Super>x']
+toggle-fullscreen=['<Super>f']
+move-to-workspace-1=['<Primary><Alt>1']
+move-to-workspace-2=['<Primary><Alt>2']
+move-to-workspace-3=['<Primary><Alt>3']
+increase-opacity=@as []
+move-to-workspace-4=['<Primary><Alt>4']
+switch-to-workspace-3=['<Super>3']
+decrease-opacity=@as []
+switch-to-workspace-2=['<Super>2']
+switch-to-workspace-4=['<Super>4']
+switch-to-workspace-1=['<Super>1']
+switch-to-workspace-down=['<Super>Tab', '<Primary><Alt>Down']
+switch-to-workspace-up=['<Control><Alt>Up', '<Super>w']
+minimize=['<Super>c']
+
+[desktop/media-handling]
+autorun-never=false
+
+[desktop/applications/calculator]
+exec='gnome-calculator'
+
+[desktop/applications/terminal]
+exec='terminator'
+
+[desktop/wm/preferences]
+theme='Mint-Y-Dark'
+
+[desktop/a11y/applications]
+screen-keyboard-enabled=false
+screen-reader-enabled=false
+
+[desktop/a11y/mouse]
+secondary-click-enabled=false
+secondary-click-time=1.2
+dwell-time=1.2
+dwell-threshold=10
+dwell-click-enabled=false
+
+[desktop/sound]
+event-sounds=false
+
+[desktop/background]
+picture-uri='file:///usr/share/backgrounds/linuxmint-tara/jplenio_lake.jpg'
+picture-options='zoom'
+
+[desktop/background/slideshow]
+image-source='xml:///usr/share/cinnamon-background-properties/linuxmint-tara.xml'
+delay=15

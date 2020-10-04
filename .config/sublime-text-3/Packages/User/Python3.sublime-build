@@ -1,0 +1,23 @@
+{
+    "shell_cmd": "python3 \"$file\";",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "working_dir":"/home/fahim/Codes/X",
+    "env": {"PYTHONIOENCODING": "utf-8"},
+
+    "variants":
+    [
+        {
+            "name": ">",
+            "shell_cmd": "python3 \"${file}\">Output.txt<Input.txt",
+        },
+        {
+            "name": "&>",
+            "shell_cmd": "python3 \"${file}\"&>Output.txt<Input.txt",
+        },
+        {
+            "name": "Syntax Check",
+            "shell_cmd": "python -m py_compile \"${file}\"",
+        }
+    ]
+}

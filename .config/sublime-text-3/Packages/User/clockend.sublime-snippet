@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+end=clock();
+double time=double(end-start)/double(CLOCKS_PER_SEC);
+cout<<setprecision(5)<<fixed<<time<<"\n";
+]]></content>
+<tabTrigger>clockend</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+const int mx=(int)1e3;
+int phi[mx+1];
+
+void initphi(){
+	phi[1]=1;
+	for(ll i=2;i<=mx;++i){
+		if(!phi[i]){
+			phi[i]=i-1;
+			for(ll j=2*i;j<=mx;j+=i){
+				if(!phi[j]) phi[j]=j;
+				phi[j]=phi[j]/i*(i-1);
+			}
+		}
+	}
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<scope>source.cpp,source.c++,source.c</scope>
+</snippet>

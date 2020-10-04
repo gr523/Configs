@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+sort(${1:arr}.begin(),${1:arr}.end());
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<tabTrigger>vsort</tabTrigger>
+
+<scope>source.cpp,source.c++</scope>
+</snippet>
