@@ -9,8 +9,8 @@ hdd() {
 
 ## RAM
 mem() {
-  mem=`free | awk '/Mem/ {printf "%dM/%dM\n", $3 / 1024.0, $2 / 1024.0 }'`
-  echo -e "$mem"
+  mem=`free | awk '/Mem/ {printf "%dM\n", $3 / 1024.0}'`
+  echo -e "Mem : $mem"
 }
 
 ## CPU
@@ -27,12 +27,12 @@ cpu() {
 ## VOLUME
 vol() {
     vol=`amixer get Master | awk -F'[][]' 'END{ print ":"$2 }' | sed 's/on://g'`
-    echo -e "volume: $vol"
+    echo -e "Volume : $vol"
 }
 
 battery(){
   bat=`cat cat /sys/class/power_supply/BAT0/capacity`
-  echo -e "Battery:$bat%"
+  echo -e "Battery : $bat%"
 }
 
 SLEEP_SEC=3

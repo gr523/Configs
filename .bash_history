@@ -1143,3 +1143,190 @@ bash
 git init --bare
 git remote add origin git@github.com:gr523/Configs.git
 configs remote
+commitdate
+echo "commitdate"
+echo "`commitdate`"
+echo commitdate
+echo `commitdate`
+commitdate
+"commitdate"
+echo "commitdate"
+echo "`commitdate`"
+bash
+commitdate
+bash
+configs config --local status.showUntrackedFiles no
+configs status
+cd ./.config
+ls
+ll
+configs add ./sublime-text-3/*
+configs status
+configs add ./terminator/*
+configs push
+configs push origin master
+configs add ./.compton.conf
+configs add compton.conf 
+configs add libreoffice/
+configs add celluloid/
+configs add celluloid/*
+configs add GIMP/*
+echo ${configs}
+echo configs
+cd ..
+configs add Configs/*
+configs add .dmenu/*
+configs add .xdman/*
+configs commit -m "`date +'%a %b%d %Y'`"
+configs push
+configs push origin master
+cd ./.config
+configs add ./libreoffice/*
+configs add ./celluloid/*
+configs add ./GIMP/*
+configs commit -m "`date +'%a %b%d %Y'`"
+configs push origin master
+cd
+configs add .bashrc .bash_history .bash_logout .bashrc.save .spectrwm.conf 
+configs add .profile 
+configs commit -m "`date +'%a %b%d %Y'`"
+configs push origin master
+echo commitdate
+bash
+which git
+configs config --local status.showUntrackedFiles no
+bash
+configs reset
+bash
+commitdate
+date +'%a %b%d %Y'
+commitdate
+bash
+commit
+commitdate
+configs add ./.config/nitrogen/*
+configs commit -m commitdate
+configs ammend commit -m "`commitdate`"
+configs commit --amend -m "`commitdate`"
+configs commit --amend -m `commitdate`
+configs commit --amend -m "commitdate"
+configs commit --amend -m "`commitdate`"
+configs push origin master
+cinnamon restart
+cinnamon --reset
+top
+apt search lxappear
+sudo apt install lxappearance
+killall nemo 
+pkexec nemo
+pkexec nemo "blank"
+pkexec -h
+pkexec --help
+killall brave 
+sudo -A nemo
+echo ${SUDO_ASKPASS}
+killall celluloid 
+celluloid 
+sudo mv xorg.conf.d/ xorg.conf.d__test/
+history | grep -i "intel"
+cd /etc/X11/
+sudo mv xorg.conf.d__test/ mv xorg.conf.d/
+sudo mv xorg.conf.d__test/ xorg.conf.d/
+cd /etc/X11/
+cat xorg.conf.d/20-intel.conf 
+sudo nano xorg.conf.d/20-intel.conf 
+cd /etc/X11/
+sudo nano xorg.conf.d/20-intel.conf 
+sudo mv xorg.conf.d/ xorg.conf.d__test/
+mv xorg.conf.d__test/ xorg.conf.d/
+sudo mv xorg.conf.d__test/ xorg.conf.d/
+sudo nano ./xorg.conf.d/20-intel.conf 
+sudo nano 20-intel.conf 
+top
+man spectrwm 
+xprop | grep -E "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+xprop
+xprop | grep -E "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+man spectrwm
+adb
+adb devices 
+adb shell
+adb shell pm list packages | grep -i "heytap"
+adb shell pm list packages -s | grep -i "heytap"
+adb shell pm list packages -u | grep -i "heytap"
+adb shell pm install --user 0 com.heytap.market
+adb shell cmd package install-existing com.heytap.market
+adb shell cmd package install-existing com.heytap.openid
+adb shell cmd package install-existing com.heytap.usercenter
+adb shell cmd package install-existing com.heytap.cloud
+adb shell cmd package install-existing com.heytap.usercenter.overlay
+adb devices 
+adb shell cmd package install-existing --usesr 0 com.heytap.datamigration
+adb shell cmd package install-existing --user 0 com.heytap.datamigration
+adb shell cmd package install-existing --user 0 com.heytap.mcs
+adb shell cmd package install-existing --user 0 com.heytap.pictorial
+adb shell cmd package install-existing --user 0 com.heytap.habit.analysis
+adb shell cmd package install-existing --user 0 com.heytap.speechassist
+adb shell cmd package install-existing --user 0 com.heytap.colorfulengine
+adb shell cmd package install-existing --user 0 com.heytap.speechassist.engine
+adb shell cmd package install-existing --user 0 com.heytap.quicksearchbox
+adb shell cmd package install-existing --user 0 V
+adb shell cmd package install-existing --user 0 com.heytap.themestore
+adb shell cmd package install-existing --user 0 com.heytap.smarthome
+adb shell cmd package install-existing --user 0 om.heytap.browser
+adb shell cmd package install-existing --user 0 com.heytap.browser
+adb devices 
+adb shell pm uninstall --user 0 com.heytap.browser
+adb shell pm uninstall --user 0 com.heytap.smarthome
+adb shell pm uninstall --user 0 com.heytap.quicksearchbox
+adb shell pm uninstall --user 0 com.heytap.speechassist.engine
+adb shell pm uninstall --user 0 com.heytap.colorfulengine
+adb shell pm uninstall --user 0 com.heytap.speechassist
+adb shell pm uninstall --user 0 com.heytap.habit.analysis
+adb shell pm uninstall --user 0 com.heytap.pictorial
+adb shell pm uninstall --user 0 com.heytap.mcs
+adb shell pm uninstall --user 0 com.heytap.datamigration
+adb shell pm uninstall --user 0 com.heytap.usercenter.overlay
+adb shell pm uninstall --user 0 com.heytap.usercenter
+adb shell pm uninstall --user 0 com.heytap.market
+adb shell cmd package install-existing --user 0 com.heytap.usercenter
+adb shell cmd package install-existing --user 0 com.heytap.cloud
+adb shell cmd package install-existing --user 0 com.heytap.openid
+adb shell pm disable-user —user 0 com.heytap.market
+adb shell pm disable-user --user 0 com.heytap.market
+adb shell pm disable-user --user 0 com.heytap.cloud
+adb shell pm uninstall --user 0 com.heytap.cloud
+adb shell pm uninstall --user 0 com.heytap.openid
+adb shell pm list packages -e | grep -i "heytap"
+adb shell pm uninstall --user 0 com.heytap.themestore 
+adb shell pm uninstall --user 0 com.coloros.gamespaceui
+adb devices 
+adb shell pm uninstall --user 0 com.coloros.gamespaceui
+adb shell pm uninstall --user 0 com.realmecomm.app
+killall zoom 
+xprop | grep -E "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+killall zoom 
+man spectrwm
+man spectrwm | grep "QUIRKS" +10
+man spectrwm | grep "QUIRKS" -A10
+man spectrwm | grep "QUIRKS" -A20
+man spectrwm | grep "QUI" -A40
+man spectrwm | grep "QUIRKS" -A30
+man spectrwm | grep "QUIRKS" -A50
+man spectrwm | grep "QUIRKS" -A60
+man spectrwm | grep "QUIRKS" -A70
+man spectrwm | grep "(optional)" -A70
+man spectrwm | grep "QUIRKS" -A70
+man spectrwm | grep "QUIRKS" -A100
+xprop | grep -E "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+xprop 
+xprop | grep -E "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+killall zoom
+killall brave
+killall compton 
+killall nemo
+top
+ls
+la
+ll
+suspend 

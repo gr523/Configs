@@ -5,12 +5,12 @@
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
-      *) return;;
+      *) return;
 esac
 
 
 alias configs='/usr/bin/git --git-dir=$HOME/Configs/configsRepo/ --work-tree=$HOME'
-
+alias commitdate="date +'%a %b%d %Y'"
 
 # don't put duplicate lines or lines starting with space in the history.
 # See bash(1) for more options
