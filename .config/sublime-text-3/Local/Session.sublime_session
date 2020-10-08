@@ -816,6 +816,18 @@
 				"selected_items":
 				[
 					[
+						"car",
+						"cards"
+					],
+					[
+						"swa",
+						"swaped"
+					],
+					[
+						"ba",
+						"battery"
+					],
+					[
 						"fa",
 						"fabs"
 					],
@@ -1043,7 +1055,7 @@
 					"file": "/home/fahim/Codes/X/Input.txt",
 					"settings":
 					{
-						"buffer_size": 53,
+						"buffer_size": 4,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1052,7 +1064,7 @@
 					"file": "/home/fahim/.spectrwm.conf",
 					"settings":
 					{
-						"buffer_size": 10842,
+						"buffer_size": 11351,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1061,7 +1073,7 @@
 					"file": "/home/fahim/Codes/X/Output.txt",
 					"settings":
 					{
-						"buffer_size": 2,
+						"buffer_size": 4,
 						"line_ending": "Unix"
 					}
 				}
@@ -1210,12 +1222,68 @@
 				"selected_items":
 				[
 					[
+						"mak\t",
+						"Set Syntax: Makefile"
+					],
+					[
 						"mak",
 						"Set Syntax: Makefile"
 					],
 					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"wr",
+						"Word Wrap: Toggle"
+					],
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					],
+					[
+						"war",
+						"Word Wrap: Toggle"
+					],
+					[
 						"sie",
 						"Snippet: sieve"
+					],
+					[
+						"kmp",
+						"Snippet: kmpalgo"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"no",
+						"Set Syntax: OCamlyacc"
+					],
+					[
+						"pyt\t",
+						"Set Syntax: Python"
+					],
+					[
+						"C+",
+						"Set Syntax: C++"
+					],
+					[
+						"conf",
+						"Set Syntax: Git Config"
+					],
+					[
+						"lua",
+						"Set Syntax: Lua"
+					],
+					[
+						"wor",
+						"Word Wrap: Toggle"
 					],
 					[
 						"km",
@@ -1298,10 +1366,6 @@
 						"Package Control: List Packages"
 					],
 					[
-						"view",
-						"View Package File"
-					],
-					[
 						"pack",
 						"Preferences: Browse Packages"
 					],
@@ -1347,16 +1411,31 @@
 			"expanded_folders":
 			[
 				"/home/fahim/Codes",
-				"/home/fahim/Codes/Runtime"
+				"/home/fahim/Codes/Assignments",
+				"/home/fahim/Codes/Assignments/CSE_4202"
 			],
 			"file_history":
 			[
-				"/home/fahim/Codes/Runtime/B.cpp",
+				"/home/fahim/Configs/SpectrWM/baraction.sh",
+				"/home/fahim/Configs/SpectrWM/spectrwm.conf",
 				"/home/fahim/Codes/Testing/justout.cpp",
-				"/home/fahim/Codes/Testing/2ndTest.cpp",
-				"/home/fahim/Codes/Runtime/A.cpp",
 				"/home/fahim/.spectrwm.conf",
 				"/home/fahim/Configs/baraction.sh",
+				"/home/fahim/Configs/spectrwm.conf",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab3/Task4.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task1.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/bubbleSort.c",
+				"/home/fahim/Configs/SpectrWM/Custom/baraction.sh",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task5.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task4.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task3.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task2.c",
+				"/home/fahim/Desktop/tmp/ConfigUpdater.sh",
+				"/home/fahim/Codes/Codeforces/VasyaAndBusketBall.cpp",
+				"/home/fahim/Desktop/testing.desktop",
+				"/home/fahim/Codes/Runtime/B.cpp",
+				"/home/fahim/Codes/Testing/2ndTest.cpp",
+				"/home/fahim/Codes/Runtime/A.cpp",
 				"/home/fahim/Codes/Javascript/fullcfmod.js",
 				"/home/fahim/.bashrc",
 				"/home/fahim/Codes/SPOJ/Bitmap.cpp",
@@ -1464,6 +1543,23 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"vol",
+					"vert",
+					"horizon",
+					"vert",
+					"vertical",
+					"window",
+					"resize",
+					"raise",
+					"Raise",
+					"raise",
+					"MOD+Shift+space",
+					"comma",
+					"qui",
+					"git",
+					"            af=ap,bf=bp;\n            ans = cur; ",
+					"if(cur>ans){\n            af=ap,bf=bp;\n            ans = cur; \n        }",
+					"        if(cur>ans){\n            af=ap,bf=bp;\n            ans = cur; \n        }",
 					"_grow",
 					"focus",
 					"i",
@@ -1596,15 +1692,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 53,
+								"buffer_size": 4,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										33,
-										33
+										4,
+										4
 									]
 								],
 								"settings":
@@ -1630,15 +1726,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10842,
+								"buffer_size": 11351,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2483,
-										2483
+										3536,
+										3536
 									]
 								],
 								"settings":
@@ -1646,7 +1742,7 @@
 									"syntax": "Packages/Makefile/Makefile.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1628.0,
+								"translation.y": 1582.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1664,15 +1760,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2,
+								"buffer_size": 4,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2,
-										2
+										0,
+										0
 									]
 								],
 								"settings":
@@ -1751,7 +1847,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/g++.sublime-build",
-			"position": "0,0,0,0,0,2,18,1364,766,1366,768",
+			"position": "0,0,0,0,0,0,20,1366,768,1366,768",
 			"project": "",
 			"replace":
 			{
@@ -1765,12 +1861,12 @@
 				"selected_items":
 				[
 					[
-						"2nd",
-						"Testing/2ndTest.cpp"
-					],
-					[
 						"jus",
 						"Testing/justout.cpp"
+					],
+					[
+						"2nd",
+						"Testing/2ndTest.cpp"
 					],
 					[
 						"power",

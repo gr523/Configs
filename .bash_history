@@ -1330,3 +1330,660 @@ ls
 la
 ll
 suspend 
+configs status
+configs status | more
+ls
+cd ./Test/
+configs add -n -u
+configs status
+configs status | more
+configs add -un
+configs add -u
+configs commit -m "`commitdate`"
+configs push origin master
+cd
+cd ./.c
+cd ./.config/
+ls
+configs status
+configs add -n
+configs add -nu
+configs add -un
+configs status
+mv 20-intel.conf 20-intel_test.conf 
+sudo mv 20-intel.conf 20-intel_test.conf 
+sudo mv 20-intel_test.conf 20-intel.conf 
+cd ..
+sudo mv xorg.conf.d/ test_xorg.conf.d/
+xprop 
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME)"
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+cd /etc/X11
+ls
+mv test_xorg.conf.d/ xorg.conf.d/
+sudo mv test_xorg.conf.d/ xorg.conf.d/
+killall celluloid
+ls
+sudo nano ./xorg.conf.d/20-intel.conf 
+ls
+la
+cinnamon
+cd /etc/x11
+cd /etc/X11
+ls
+cd ./xorg.conf.d/
+sudo mv xorg.conf.d xorg.conf.test
+cd ..
+sudo mv xorg.conf.d xorg.conf.test
+cinnamon
+cd
+xorg
+spectrwm 
+cd /etc/X11
+exit
+sudo mv xorg.conf.test/ xorg.conf.d/
+sudo nano xorg.conf.d/20-intel.conf 
+startx
+spectrwm 
+spectrwm  iniy
+init
+initrc
+startx
+shutdown now
+sudo mv xorg.conf.d/ xorg.conf.d_test/
+sudo cp 20-intel.conf /usr/share/X11/xorg.conf.d/
+apt purge celluloid 
+flatpak install flathub celluloid
+sudo rm -r test/
+flatpak list 
+Celluloid
+sudo chmod +x celluloid 
+ls
+celluloid
+./celluloid 
+flatpak repair celluloid
+flatpak repair io.github.celluloid_player.Celluloid
+flatpak uninstall io.github.celluloid_player.Celluloid
+flatpak list
+flatpak list -h
+flatpak list size
+flatpak list -size
+flatpak list --columns=size
+flatpak list --columns=name,size
+flatpak list --runtime 
+killall mpv
+sudo rm 20-intel.conf 
+AndroidStudioProjects/
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+bwrap --args 31 android-studio
+#
+find . -iname "*.desktop"
+find . -iname "*.desktop" | grep -i "android"
+find . -iname "*.desktop" | grep -i "java"
+find . -iname "*.desktop" | grep -i "studio"
+find --help
+find . -iname "*.desktop" | grep -i "joplin\"
+find . -iname "*.desktop" | grep -i "joplin"
+find /usr -iname "android"
+find /usr -iname "*.desktop"
+find /usr -iname "*.desktop" | grep -i "android"
+nano /usr/share/app-install/desktop/androidsdk-ddms:ddms.desktop
+nano /usr/share/app-install/desktop/androidsdk-hierarchyviewer:hierarchyviewer.desktop
+nano /usr/share/kservices5/useragentstrings/android10.desktop
+kill %1
+nano /usr/share/kservices5/useragentstrings/android10.desktop
+find /usr -iname "*.desktop" | grep -i "java"
+find /usr -iname "*.desktop" | grep -i "studio"
+find / -iname "*.desktop" > ~/ss
+sudo find / -iname "*.desktop" > ~/ss
+grep -i "android" ./ss
+grep -i "AndroidStudio" ./ss
+nano /var/lib/flatpak/exports/share/applications/com.google.AndroidStudio.desktop
+cd /var/lib/flatpak/app/com.google.AndroidStudio/x86_64/stable
+ls
+cd 2385819354c985acf663726ab1b8d4d31dc590942a16d36d14b3821e3ce5e949/
+ls
+cd ..
+/var/lib/flatpak/exports/share/applications/com.google.AndroidStudio.desktop
+cd /var/lib/flatpak/exports/share/applications/
+sudo su
+sudo chmod 766 com.google.AndroidStudio.desktop 
+sudo chown fahim com.google.AndroidStudio.desktop 
+flatpak run com.google.AndroidStudio 
+flatpak run com.google.AndroidStudio &
+flatpak run com.google.AndroidStudio &>-
+bg
+flatpak run com.google.AndroidStudio 
+jobs
+kill %1
+flatpak run com.google.AndroidStudio bg
+kill %1
+jobs
+flatpak run com.google.AndroidStudio &
+bg
+kill %1
+flatpak run com.google.AndroidStudio;bg
+bg
+fg
+cd /var/lib/flatpak/exports/share/applications
+./com.google.AndroidStudio.desktop 
+flatpak run --branch=stable --arch=x86_64 --command=android-studio com.google.AndroidStudio
+/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=android-studio com.google.AndroidStudio
+flatpak run --branch=stable --arch=x86_64 --command=android-studio com.google.AndroidStudio
+which flatpak 
+shutdown now
+mdm
+dm
+ddm
+sddm
+ll /etc/lightdm/
+cd /etc/lightdm/
+nano lightdm.conf
+nano lightdm.conf.d
+nano lightdm-gtk-greeter.conf.d/
+ll /usr/share/xsessions/
+cd /usr/share/xsessions/
+nano spectrwm.desktop 
+nano cinnamon.desktop 
+nano cinnamon2d.desktop 
+cd /etc/lightdm/
+ll
+nano users.conf 
+nano slick-greeter.conf 
+nano lightdm-gtk-greeter.conf.d/
+lightdm
+lightdm --test-mode
+lightdm-session 
+apt search xf86
+gnome-keyring
+gnome-keyring -h
+gnome-keyring --help
+cd /usr/lib/polkit-gnome
+ll
+cd
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+gnome-keyring 
+lightdm-session 
+gnome-keyring --help
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+xinput float 17
+timedatectl -status
+timedatectl status
+which ls
+which which
+which sh
+which grep
+which vi
+which flatpak 
+visudo 
+sudo visudo 
+sudo apt update
+cd ls
+cd;ls
+la
+cd /etc
+ll
+ls
+lspci -k | grep -iEA5 'vga|3d|display'
+sudo chown fahim 20-intel.conf 
+sudo cp 20-intel.conf ~/Configs/
+sudo rm 20-intel.conf 
+sudo nano 20-device.conf
+cd ..
+sudo mv xorg.conf.d_test/ xorg.conf.d/
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+sudo mv xorg.conf.d/ xorg.conf.d_test/
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+sysctl --help
+ls /usr/lib/policykit-1/
+/usr/lib/policykit-1/polkit-agent-helper-1
+/usr/lib/policykit-1/polkit-agent-helper-1 -h
+sudo /usr/lib/policykit-1/polkit-agent-helper-1
+sudo /usr/lib/policykit-1/polkit-agent-helper-1 timeshift
+/usr/lib/policykit-1/polkit-agent-helper-1 &
+exec /usr/lib/policykit-1/polkit-agent-helper-1 &
+kill %1
+sudo invoke-rc.d dbus restart
+/etc/xdg/autostart/
+cd /etc/xdg/autostart/
+ls
+nano polkit-gnome-authentication-agent-1.desktop 
+cd /usr/lib/policykit-1-gnome/
+ls
+cd /usr/lib/policykit-1-gnome/
+ls
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+grep -i "spectrwm" ./ss
+ibus
+ibus-setup 
+ibus-daemon 
+chmod +x testing.desktop 
+sudho echo "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" >> xinitrc 
+sudo echo "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" >> xinitrc 
+sudo echo "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" >> xinitrc.sh 
+sudo su
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+timeshift-gtk 
+sudo timeshift-gtk 
+xrandr --output VGA-1 --brightness 0.5
+sudo apt install xbacklight
+xbacklight -inc 100
+xbacklight -set .8
+xbacklight -get
+sudo apt purge xbacklight 
+sudo apt install xdotool 
+xdotool key XF86MonBrightnessUp
+xdotool key XF86MonBrightnessDown
+while :;do xdotool key XF86MonBrightnessDown;sleep 1;done
+while :;do xdotool key XF86MonBrightnessUp;done
+killall brave 
+history | grep configs
+configs status
+gdm
+apt search sparky
+flatpak run discord
+flatpak run com.discordapp.Discord 
+ehco ${$XDG_DATA_HOME}
+ehco ${XDG_DATA_HOME}
+echo ${XDG_DATA_HOME}
+XDG_DATA_HOME=/home/fahim/.local/share
+dmenu_run
+j4-dmenu-desktop -h
+man j4-dmenu-desktop 
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu -i -l"
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu"
+j4-dmenu-desktop --dmenu="-i"
+j4-dmenu-desktop --dmenu="dmenu -i"
+j4-dmenu-desktop --dmenu="dmenu -i -l"
+j4-dmenu-desktop --dmenu="dmenu -i -l 20"
+j4-dmenu-desktop --dmenu="dmenu -i -l 10"
+j4-dmenu-desktop --dmenu="dmenu -i monospace -l 10"
+j4-dmenu-desktop --dmenu="dmenu -i -fn'monospace' -l 10"
+j4-dmenu-desktop --dmenu="dmenu -i -fn 'monospace' -l 10"
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu -i"
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu -i --term=terminator"
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu -i --term='terminator'"
+j4-dmenu-desktop --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu -i" --term=terminator
+j4-dmenu-desktop --term=terminator --dmenu="(cat ; (stest -flx $(echo $PATH | tr : ' ') | sort -u)) | dmenu -i -l 10"
+man j4-dmenu-desktop 
+echo ${XDG_CURRENT_DESKTOP}
+j4-dmenu-desktop --dmenu="dmenu -i monospace -l 10"
+j4-dmenu-desktop --dmenu="dmenu -i"
+kazam -h
+kazam 
+killall kazam
+kazam 
+killall kazam
+kazam --help
+xprop | grep -Ei "^(WM_CLASS|_NET_WM_NAME|WM_NAME)"
+suspend -h
+suspend --help
+suspend -f
+sysctl suspend
+systemctl suspend
+neofetch 
+chmod +x ./Makefile 
+sudo ./Makefile install
+sudo apt purge spectrwm 
+spectrwm 
+sudo make install
+make
+which make
+sudo make
+make install
+chmod +x baraction.sh 
+sudo apt install fonts-emojione 
+fonts-emojione
+echo 🔈
+sudo apt remove fonts-emojione 
+🔈
+echo 🔈
+sudo apt install fonts-emojione 
+man j4-dmenu-desktop 
+man demnu
+man demenu
+man dmenu
+dmenu_run -nf=red
+man dmenu
+dmenu_run -nf red
+man dmenu
+dmenu_run -nb red
+dmenu_run -sb red
+j4-dmenu-desktop --dmenu="-sb red"
+j4-dmenu-desktop --dmenu="dmenu -sb red"
+j4-dmenu-desktop --dmenu="dmenu -sb aqua"
+j4-dmenu-desktop --dmenu="dmenu -i"
+dmenu
+dmenu_run 
+echo ${PATH}
+xclock 
+xeyes 
+xfishtank
+xvkbd
+which terminator 
+xprop 
+killall zoom
+lightdm-session 
+apt search tlp
+cd /usr/lib/policykit-1-gnome
+./polkit-gnome-authentication-agent-1 
+sudo ./polkit-gnome-authentication-agent-1 
+chmod +x ./polkitrun.sh 
+grep -i "spectrwm" ./ss
+systemctl list-unit
+systemctl list-units
+nmcli c
+nmcli c up Blank_ 
+nmcli c down Blank_ 
+killall xdg
+killall xdg-desktop-portal
+killall xdg-document-portal 
+killall xdg-permission-store 
+killall xdg-*
+pkill xdg-*
+pkill gnome* goa*
+pkill --help
+pkill gnome*|goa*
+pkill gnome*; pkill goa*
+pkill xdg-*
+sudo touch sp.sh
+sudo nano sp.sh 
+sudo nano spectrwm.desktop 
+sudo nano sp.sh 
+cd /usr/lib/policykit-1-gnome/
+ls
+cd /usr/lib/policykit-1/
+ls
+chmod +x /usr/share/xsessions/sp.sh 
+sudo chmod +x /usr/share/xsessions/sp.sh 
+/usr/lib/policykit-1/polkit-agent-helper-1 
+/usr/lib/policykit-1/polkitid
+/usr/lib/policykit-1/polkitd
+sudo nano spectrwm.desktop 
+sudo nano spectrwm.desktop 
+sudo rm sp.sh 
+run_im
+sudo touch sp.sh
+sudo nano sp.sh
+sudo chmod +x sp.sh
+sudo nano spectrwm.desktop 
+cd /usr/share/xsessions/
+sudo nano spectrwm.desktop 
+cd ./Test/gitTesting/
+ls
+vi file.txt 
+vi -v
+bind 'set show-mode-in-prompt on'
+ls
+vi
+vi file.txt 
+bash
+lsmem
+lscpu
+lsdisk
+echo ${configs}
+alisas configs
+alias configs
+man spectr
+man spectrwm
+man spectrwm | grep pua
+man spectrwm | grep pua -A10
+vi ./Codes/Testing/justout.c
+vi ./Codes/Testing/justout.cpp 
+sudo apt install vim
+vim ./Codes/Testing/justout.cpp 
+sudo apt install cmatrix
+cmatrix -h
+cmatrix -m
+cmatrix -r
+cmatrix -c
+cmatrix -C
+cmatrix -C -h
+cmatrix -C cyan
+cmatrix -C blue
+cmatrix -C red
+cmatrix -C magenta
+cmatrix -C yellow
+cmatrix 
+cmatrix -a
+cmatrix -h
+cmatrix -o
+cmatrix -l
+cmatrix -ab
+cmatrix 
+neofetch 
+lsmem
+neofetch 
+fc-cache -f -v 
+killall compton 
+compton
+compton &
+sudo apt install compton-conf 
+killall compton && compton &
+killall compton && compton &;
+killall compton && compton &
+kill %1
+compton
+killall
+killall compton
+compton
+compton &
+jobs
+compton
+compton &
+killall compton && compton &
+jobs
+compton &
+compton &;
+compton &
+bash
+compton
+flatpak list
+flatpak search zoom
+killall compton;compton &
+killall compton;compton & ;
+killall compton;compton &
+uname -r
+uname -sr
+uname
+uname -h
+uname --h
+uname --help
+uname -m
+uname -p
+uname -i
+uname -o
+ls
+sudo cp QETonyFlores.ttf /usr/share/fonts/truetype/
+sudo cp QEVRead.ttf /usr/share/fonts/truetype/
+fc-cache -f -v 
+compton
+compton bg
+bg compton
+bg
+compton &
+killall compton 
+killall comp
+xdotool --help
+
+xdotool ctrl+d
+xdotool key ctrl+d
+xdotool key ctrl+
+xdotool key alt+e
+xev
+xmodmap -pke | grep 133
+xdotool key Super_L+b
+sleep 2;terminator
+sleep 2 && terminator
+killall polkit-gnome-authentication-agent-1 
+cd /usr/lib
+ls
+ls | grep pol
+cd ./policykit-1
+ls
+ll
+./polkit-agent-helper-1 
+pwd
+amixer get Master
+amixer get Master =~ "[([0-9]+%)]"
+echo ${BASH_REMATCH}
+amixer get Master=~"[([0-9]+%)]"
+echo ${BASH_REMATCH}
+amixer get Master | cat =~ "[([0-9]+%)]"
+amixer get Master | cat | =~ "[([0-9]+%)]"
+temp=amixer get Master
+temp=`amixer get Master`
+temp =~ "[([0-9]+%)]"
+${temp} =~ "[([0-9]+%)]"
+echo ${temp} =~ "[([0-9]+%)]"
+echo ${BASH_REMATCH}
+[[ ${temp} =~ "[([0-9]+%)]" ]]
+echo ${BASH_REMATCH}
+patt="\[([0-9]+%\])"
+[[ ${patt} =~ ${temp} ]]
+echo ${BASH_REMATCH}
+patt='\[([0-9]+%\])'
+echo ${BASH_REMATCH}
+[[ ${patt} =~ ${temp} ]]
+echo ${BASH_REMATCH}
+patt='[0-9]'
+[[ ${patt} =~ ${temp} ]]
+echo ${BASH_REMATCH}
+temp = 'hello world'
+temp = "hello world"
+${temp} = "hello world"
+temp= "hello world"
+temp="hello world"
+patt="world"
+[[ ${patt} =~ ${temp} ]]
+echo ${BASH_REMATCH}
+temp='hello world'
+patt='world'
+[[ ${patt} =~ ${temp} ]]
+echo ${BASH_REMATCH}
+patt='hello'
+[[ ${patt} =~ ${temp} ]]
+echo ${BASH_REMATCH}
+echo ${BASH_REMATCH}[0]
+echo ${BASH_REMATCH[0]}
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[0]}
+if [[ $patt =~ $temp ]];then echo "y";fi
+echo ${BASH_REMATCH[0]}
+if [[ ${patt} =~ ${temp} ]];then echo "y";fi
+echo ${BASH_REMATCH[0]}
+echo ${BASH_REMATCH[1]}
+echo ${BASH_REMATCH[2]}
+echo ${BASH_REMATCH}
+foobar_re='foo(bar)bl(.*)'
+if [[ $x =~ $foobar_re ]] ; then     echo The regex matches!;     echo ${BASH_REMATCH[*]};     echo ${BASH_REMATCH[1]};     echo ${BASH_REMATCH[2]}; fi
+x='foobarbletch'
+foobar_re='foo(bar)bl(.*)'
+[[ $x =~ $foobar_re ]]
+echo ${BASH_REMATCH[*]}
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+patt="hello.*"
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+echo $temp
+echo $patt
+patt="hello(.*)"
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+patt='hello(.*)'
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+patt='(.*)'
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+[[ $temp =~ $patt ]]
+echo ${BASH_REMATCH[*]}
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+amixer get Master
+temp=`amixer get Master`
+patt="\[([0-9]+%)\]"
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+temp=`amixer get Master | grep "Playback"`
+[[ $patt =~ $temp ]]
+echo ${BASH_REMATCH[*]}
+[[ ${temp} =~ ${patt} ]]
+echo ${BASH_REMATCH[*]}
+temp=`amixer get Master`
+[[ ${temp} =~ ${patt} ]]
+echo ${BASH_REMATCH[*]}
+echo ${BASH_REMATCH[1]}
+cd /sys/class/
+ls
+cd ./backlight/
+ls
+cat intel_backlight
+cd ./intel_backlight
+ls
+cat actual_brightness 
+cat bl_power 
+cat device
+cat max_brightness 
+cat power/
+cat uevent 
+cd ./device
+ls
+cat status 
+cd ./intel_backlight/
+ls
+cat actual_brightness 
+cd ../..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ./thermal/
+ls
+cd ./thermal_zone1
+ls
+cd
+sensors
+ls
+ll
+WINEARCH=win32 wine AIO_Boot_Extractor.exe 
+wine AIO_Boot_Extractor.exe 
+cd
+cd ./Apps/
+ls
+cd ./ventoy-1.0.09/
+ls
+cat log.txt 
+ls
+cd ./ventoy/
+ls
+cd ..
+chmod +x Ventoy2Disk.sh 
+./Ventoy2Disk.sh 
+fdisk -l
+sudo fdisk -l
+lsblk
+./Ventoy2Disk.sh 
+./Ventoy2Disk.sh -i /dev/sdb
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+xprop 
+amixer get Master
+amixer get Master | grep -E "\[[0-9]+%\]"
+amixer get Master | grep -En "\[[0-9]+%\]"
+amixer get Master | grep -Ea "\[[0-9]+%\]"
+amixer get Master | grep -Eq "\[[0-9]+%\]"
+amixer get Master | grep -Ew "\[[0-9]+%\]"
+amixer get Master | grep -Ee "\[[0-9]+%\]"
+amixer get Master | grep -Er "\[[0-9]+%\]"
+amixer get Master | grep -Et "\[[0-9]+%\]"
+grep --help
+amixer get Master | grep -Eo "\[[0-9]+%\]"
+amixer get Master | grep -Eo "\[0-9]+%"
+amixer get Master | grep -Eo "[0-9]+%"
+amixer get Master | grep -Eo "\[[0-9]+%\]"
+amixer get Master | grep -Eo "\![[0-9]+%\]"
+ll
