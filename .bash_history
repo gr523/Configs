@@ -1,168 +1,3 @@
-systemd-analyze 
-systemd-analyze critical-chain 
-ln -s '/home/fahim/Untitled Folder' Class
-systemd-analyze critical-chain 
-systemctl disable networkd-dispatcher.service 
-systemd-analyze critical-chain 
-systemd-analyze 
-systemd-analyze critical-chain 
-lsusb
-dmesg
-systemd-analyze critical-chain 
-systemd-analyze 
-systemd-analyze critical-chain 
-cat /etc/fstab 
-blkid
-sudo nano /etc/fstab 
-systemd-analyze 
-systemd-analyze critical-chain 
-systemctl disable udisks2.service 
-systemd-analyze critical-chain 
-systemd-analyze 
-systemctl enable  udisks2.service 
-systemd-analyze 
-lsusb `
-lsusb 
-dconf --help
-dconf list
-dconf list /org/
-dconf list /org/cinnamon/
-dconf list /org/cinnamon/desktop/
-dconf list /
-dconf list /org/gnome/
-dconf list /org/gnome/desktop/
-dconf /org
-dconflist  /org
-dconf list  /org
-dconf list /org
-dconf list /org/
-dconf list /org/gtk/
-dconf list /org/gtk/settings/
-dconf list /org/cinnamon/
-dconf list /org/cinnamon/desktop/
-dconf list /org/cinnamon
-dconf list /org/cinnamon/
-dconf list /org/cinnamon/desktop/
-dconf load /org/cinnamon/desktop/keybindings/ < '/home/fahim/Configs/dconf/keybindings' 
-dconf --help
-killall vivaldi-bin 
-cd ./Codes
-cd ./Configs/
-g++ -H test.cpp 
-g++ 
-gcc
-sudo apt install g++
-g++ -H test.cpp 
-g++ -g -stdc=c++17 -x c++header -o stdc++.h.gch 
-g++ -g -stdc=c++17 -x c++header test.cpp -o stdc++.h.gch 
-g++ -g -std=c++17 -x c++header test.cpp -o stdc++.h.gch 
-g++ -g -std=c++17 -x c++-header test.cpp -o stdc++.h.gch 
-sudo apt install git
-git status 
-git clone https://github.com/gr523/Codes
-dconf read /org/cinnamon/desktop/keybindings/
-dconf read /org/cinnamon/desktop/keybindings
-dconf list /org/cinnamon/desktop/keybindings
-dconf --help
-dconf dump /org/cinnamon/desktop/keybindings
-dconf dump /org/cinnamon/desktop/keybindings/
-flatpak flathub search gimp
-flatpak search flathub gimp
-flatpak search gimp
-sudo apt update
-lsblk 
-df -h
-blkid
-sudo nano /etc/fstab 
-echo \uE0B0
-echo $'\uE0B0'
-echo $'\uE0B2'
-echo $'\uE0B1'
-echo $'\uE0A1'
-echo $SEPARATOR
-echo ${SEPARATOR}
-echo ${SEPARATOR_FORMAT_1}
-echo $SE
-echo $SEPARATOR_FORMAT_1
-TRIANGLE=$'\uE0B0'
-echo $TRIANGLE
-echo $246
-echo ${246}
-sudo apt install fonts-powerline
-su
-sudo su
-neofetch 
-echo $'\uE0B0'
-echo $'\uE0B1'
-echo $'\uE0B2'
-echo $'\uE0B3'
-echo $'\uE0B4'
-echo $'\uE0B5'
-echo $'\uE0B6'
-echo $'\uE0B7'
-echo $'\uE0a'
-echo $'\uE0A'
-echo $'\uE0A1'
-echo $'\uE0A2'
-echo $'\uE0A3'
-echo $'\uE0A4'
-echo $'\uE0C4'
-echo $'\uE0C1'
-echo $'\uE0C2'
-echo $'\uE0C3'
-echo $'\uE0C10'
-echo $'\uE0C12'
-echo $'\uE0C9'
-echo $'\uE0D'
-echo $'\uE0D1'
-echo $'\uE0D2'
-echo $'\uE0D3'
-echo $'\uE0E'
-echo $'\uE01'
-echo $'\uA01'
-echo $'\uE'
-echo $'\uE1'
-echo $'\uE2'
-echo $'\uE3'
-bash\
-bash
-bash
-TRIANGLE=$'\uE0B0'
-echo $SEPARATOR_FORMAT_1$TRIANGLE
-echo $SEPARATOR_FORMAT_2$TRIANGLE
-echo $SEPARATOR_FORMAT_3$TRIANGLE
-echo $'u'
-echo $'\u'
-echo \u
-echo $"\u"
-echo $"\ h"
-echo $" \u"
-ne
-neofetch 
-systemd-analyze 
-systemd-analyze critical-chain 
-systemd-analyze blame 
-vivaldi
-hwinfo
-inxi
-uname 
-uname -r
-uname -sr
-neofetch 
-pwd
-cd /
-rmdir data/
-sudo rmdir data/
-sudo apt download warpinator 
-apt download warpinator 
-apt download samba
-sudo apt install apt-offline
-apt-offline get --help
-apt-offline get -d ~/Apps gimp
-apt-offline get gimp
-apt-offline get g++
-apt-offline get apt-offline
-apt-offline get apt-offline.sig
 apt-offline get ~\Apps\apt-offline.sig
 apt-offline get ~\Apps\apt-offline.sig --bundle apt-offline.zip
 apt-offline get apt-offline --bundle apt-offline.zip
@@ -1987,3 +1822,179 @@ amixer get Master | grep -Eo "[0-9]+%"
 amixer get Master | grep -Eo "\[[0-9]+%\]"
 amixer get Master | grep -Eo "\![[0-9]+%\]"
 ll
+configs add ./Scripts/**
+configs add ./system-connections/**
+configs add 20-intel.conf 
+configs add ./Local\ App\ Settings/*
+configs status
+configs commit -m "`commitdate`"
+configs push origin master
+configs add -un
+configs add -u
+configs commit -m "`commitdate`"
+configs push origin master
+configs commit -m "`commitdate`"
+configs push origin master
+top
+top -h
+top -hv
+top -hv | -bcEHiOSs1 -d secs -n max -u|U user -p pid(s) -o field -w [cols]
+monitor-sensor 
+apt search badwolf
+flatpak search badwolf
+lsblk 
+blkid
+ls
+make
+top
+free
+free -h
+vm.vfs_cache_pressure
+echo ${vm.vfs_cache_pressure}
+echo ${vfs_cache_pressure}
+cat /proc/sys/vm/min_free_kbytes
+cat /proc/sys/vm/drop_caches
+sudo cat /proc/sys/vm/drop_caches
+echo /proc/sys/vm/drop_caches
+vm.min_free_kbytes
+echo 1 > /proc/sys/vm/drop_caches
+echo "1" > /proc/sys/vm/drop_caches
+su
+sudo su
+cat /etc/sysctl.conf 
+echo "1" > /proc/sys/vm/drop_caches
+sudo su
+ls /etc/sysctl.d/
+sudo nano /etc/sysctl.conf 
+cat nano /etc/sysctl.conf 
+sudo nano /etc/fstab 
+swapon --h
+swapon -s
+du
+du -s
+ud -h
+du -h
+du -h | sort -r 
+du -h | sort -r | head 5
+du -h | sort -r | head ~5
+du -h | sort -r | head =5
+du -h | sort -r | head -5
+du | sort -r | head -5
+sudo apt install htop
+man htop
+htop -u "fahim" -M
+htop -u "fahim" M
+man htop
+htop -uM "fahim"
+htop -u "fahim"
+htop -u "fahim" -s 1
+htop -u "fahim" -s 2
+htop -s2
+htop -s9
+htop -s9 I
+man htop
+man htop | grep human
+htop --human-radable
+htop --human-raedable
+htop --human-readable
+htop -h
+htop H
+man htop | grep human -A10
+man htop | grep human -A10 -B10
+htop
+top
+man top
+top
+swapon --h
+swaplabel --h
+top
+top -h
+cd ./Codes/ClassLinks/
+cd 
+cd ./Desktop/
+./saveCL.sh 
+cd ./Codes/ClassLinks/
+git pull origin master
+git fetch origin master
+git merge HEAD~
+git log
+git merge
+git add .
+git merge
+git merge -f
+git stash 
+git merge 
+git status 
+git pull origin master
+git commit -m "`commitdate`"
+git add .
+git commit -m "`commitdate`"
+git push origin master
+git merge hotfix
+git merge --h
+cd
+swapon -s
+cat /etc/sysctl.conf 
+cd /proc/sys
+ls
+cd ./vm/
+ls
+cat swappiness 
+cat drop_caches 
+sudo su
+cd
+top
+tmpfs --help
+tmps
+cat /etc/fstab 
+cat /etc/tmpfiles.d/
+cat /etc/tmpfiles.d/tmp.conf
+cd /etc/tmpfiles.d/
+ls
+lsblk
+fdisk
+fdisk -l
+sudo fdisk -l
+top
+man spectrwm | grep -i "bar_format" -A20 -B20
+man spectrwm | grep -i "\+W" -A20 -B20
+LC_ALL=C lscpu | grep Virtualization
+$ grep -E --color=auto 'vmx|svm|0xc0f' /proc/cpuinfo
+grep -E --color=auto 'vmx|svm|0xc0f' /proc/cpuinfo
+apt search kvm
+zgrep VIRTIO /proc/config.gz
+lsmod | grep virtio
+sudo apt install virt-manager 
+zgrep CONFIG_KVM /proc/config.gz
+lsmod | grep kvm
+systemctl start libvertd
+sudo apt isntall ebtables
+sudo apt install ebtables
+sudo usermod -G libvertd -a fahim
+sudo usermod -G libvirtd -a fahim
+sudo systemctl start libvirtd
+sudo usermod -G libvirtd -a fahim
+sudo systemctl enable libvirtd
+sudo usermod -G libvirtd -a fahim
+sudo systemctl disable libvirtd
+sudo apt install dnsmasq 
+groupadd libvirtd
+sudo groupadd libvirtd
+sudo usermod -G libvirtd -a fahim
+sudo service libvirt-bin status
+systemctl start libvert-bin
+systemctl start libvirt-bin
+sudo systemctl start libvirt-bin
+sudo apt install bridge-utils
+sudo adduser fahim libvirt
+sudo systemctl libvirtd status
+sudo service libvirtd status
+service libvirtd start
+sudo service libvirtd start
+sudo service libvirt start
+sudo service libvirt-bin start
+sudo apt install libvirt-bin
+sudo apt install libvirt0
+sudo service libvirtd status
+man spectrwm | grep spawn -A10
+xprop | grep -i "wm_class"
