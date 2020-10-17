@@ -1,63 +1,3 @@
-sudo apt install spectrwm -y
-spectrwm 
-xinput --list
-xinput reattach 17 3
-sudo apt install spectrwm -y
-ll
-chmod +x baraction.sh 
-find ./ spectrwm.conf
-find ./ -i "^spectrwm.conf&"
-find ./ "^spectrwm.conf&"
-grep -E / "spectrwm.conf"
-sudo nano /etc/spectrwm.conf 
-sudo rm /etc/spectrwm.conf 
-clear
-2
-exit
-clear
-exit
-mv spectrwm.conf ./.spectrwm.conf 
-nano ./.spectrwm.conf 
-subl
-nemo
-dmenu
-dmenu --help
-passmenu
-cat baraction.sh 
-spectrwm --version
-flatpak search spectrwm
-subl baraction.sh 
-spectrwm --version
-subl .spectrwm.conf 
-man spectrwm
-subl
-subl .spectrwm.conf 
-exit
-date %d
-date +%d
-date --help
-vivaldi
-killall vivaldi-bin 
-cp vivaldi/ vivaldi_old/
-cp -r vivaldi/ vivaldi_old/
-cp -r vivaldi vivaldi_old
-apt search pauv
-apt search pavu
-sudo apt install pavucontrol -y
-login
-cd ./Downloads/
-ll
-cd ../Apps/
-ll
-nmcli c 
-nm-applet 
-sudo apt install brave
-sudo apt install brave-browser
-pavucontrol 
-pulseaudio --help
-pavucontrol --help
-pavucontrol -h
-bindsym
 bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +5%
 amixer -D pulse sset Master 100%
 amixer -D pulse sset Master 50%
@@ -1998,3 +1938,63 @@ systemctl restart lightdm
 systemctl restart lightdm.service
 configs status
 configs ls-tree -r -l --abbrev --full-name HEAD | sort -n -r -k 4 | head -n 10
+lightdm
+lightdm --test-mode
+sudo lightdm
+configs status
+configs add ./Configs/Scripts/*
+configs status
+configs status -u
+alias configs
+configs add -u
+configs status
+configs commit -m "`commitdate`"
+configs push origin master
+configs status
+configs add ./Configs/Scripts/****
+configs status
+configs commit -m "`commitdate`"
+configs push origin master
+configs rm ./Configs/Fonts/joypixels-6.0-free.zip
+configs commit -m "`commitdate`"
+configs push origin master
+configs rm -r --cached ./Configs/Fonts/joypixels-6.0-free.zip
+configs push origin master
+configs rm -r --cached ./Configs/Fonts/
+configs status
+configs push origin master
+configs commit -m "`commitdate`"
+configs push origin master
+configs push
+configs status
+configs rm -r ./Configs/Fonts
+configs rm -r ./Configs/Fonts/*
+configs rm -r ./Configs/Fonts/*.*
+configs rm ./Configs/Fonts/*.*
+configs rm --cached ./Configs/Fonts/joypixels
+configs rm --cached ./Configs/Fonts/joypixels-6.0-free.zip
+configs restore
+configs restore HEAD~
+configs reset --soft HEAD-1
+configs log
+configs checkout master
+configs reset HEAD~5 --soft
+configs log
+configs add -u
+configs status
+configs commit -m "`commitdate`"
+configs push origin master
+configs reflog
+configs reset 'HEAD@{7}'
+configs log
+configs push origin master
+configs add -u
+configs push origin master
+configs status
+configs add ./Configs/Scripts/*
+configs commit -m "`commitdate`"
+configs push origin master
+configs add -u
+configs add ./gtk-3/*
+configs add ./gtk-3.0/*
+configs add ./zoomus.conf 
