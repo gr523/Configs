@@ -8,9 +8,10 @@ case $- in
       *) return;
 esac
 
-
+alias clearram='sudo sh -c "echo 3 > /proc/sys/vm/drop_caches"'
 alias configs='/usr/bin/git --git-dir=$HOME/Configs/configsRepo/ --work-tree=$HOME'
 alias commitdate="date +'%a %b%d %Y'"
+alias updateconfigs='configs add -u;configs commit -m "`commitdate`";configs push origin master'
 
 # don't put duplicate lines or lines starting with space in the history.
 # See bash(1) for more options

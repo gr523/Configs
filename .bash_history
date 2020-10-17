@@ -1,614 +1,3 @@
-apt-offline get ~\Apps\apt-offline.sig
-apt-offline get ~\Apps\apt-offline.sig --bundle apt-offline.zip
-apt-offline get apt-offline --bundle apt-offline.zip
-apt-offline get vim-offline.sig --bundle vim-install.zip
-apt-offline --bundle apt-offline-bundle.zip
-sudo apt-offline set vim-offline.sig --install-packages vim
-apt-offline get vim-offline.sig --bundle vim-install.zip
-apt-offline set apt-offline.sig --install-packages apt-offline
-sudo apt-offline set apt-offline.sig --install-packages apt-offline
-apt get apt-offline.sig --bundle apt-offline.zip
-apt-offline get apt-offline.sig --bundle apt-offline.zip
-sudo apt-offline set apt-offlineS.sig --install-packages apt-offline
-apt-offline get apt-offlineS.sig 
-apt-offline get apt-offlineS.sig ./apt-offline
-apt-offline get apt-offlineS.sig -d ./apt-offline
-apt-offline set aptoffline.sig --install-packages apt-offline
-sudo apt-offline set aptoffline.sig --install-packages apt-offline
-apt-offline get aptoffline.sig 
-apt-offline get -d ./apt-offline aptoffline.sig 
-sudo apt-offline get -d ./apt-offline aptoffline.sig \
-sudo sudo apt-offline get -d ./apt-offline aptoffline.sig \
-sudo apt-offline get -d ./apt-offline aptoffline.sig 
-apt-offline get aptoffline.sig --bundle apt-offline.zip
-sudo apt-offline get aptoffline.sig --bundle apt-offline.zip
-cd ./apt-offline/
-sudo apt-offline set test.sig --install-packages warpinator 
-apt-offline get test.sig 
-apt-offline get test.sig -d ./
-apt-offline get test.sig --bundle warpinator
-apt-offline get test.sig --bundle warpinator.zip
-apt-offline get ./test.sig 
-apt-offline get test.sig --bundle test.zip
-sudo apt-offline set apt-offline.sig --install-packages 
-sudo apt-offline set apt-offline.sig --install-packages apt-offline
-apt-offline get apt-offline.sig --bundle apt-offline.zip
-apt-offline -s --help
-apt-offline --help
-apt-offline get --help
-apt-offline get -s /var/cache/apt/archives/ apt-offline.sig --bundle apt-offline.zip 
-sudo apt-offline set samba.sig --install-packages samba
-apt-offline get samba.sig 
-apt-offline get samba.sig --bundle samba.zip
-sudo apt list
-sudo apt list | grep gimp
-sudo apt list | grep warpinator
-flatpak flathub search joplin
-flatpak search flathun joplin
-flatpak search joplin
-flatpak search flathub joplin
-flatpak install flathub joplin
-wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
-flatpak search bleacbit
-flatpak search bleachbit
-flatpak search gimp
-flatpak search warpinator
-flatpak search wireshark
-wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
-adb
-adb devices 
-adb shell
-wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
-sudo su
-sudo echo "kernel.sysrq = 1" >> /etc/sysctl.d/99-sysctl.conf"
-sudo echo "kernel.sysrq = 1" >> /etc/sysctl.d/99-sysctl.conf
-sudo su
-sudo apt install bleachbit
-apt list | grep cron
-apt download apt-offline
-ll
-python2
-python
-python2.7
-python2.8
-python3.8
-python3
-dconf dump / > ./Configs/dconf/AllSettings
-cd ./Configs/dconf/
-ll
-ln -s ./Codes 
-ln -s ~/Codes 
-sudo service network-manager restart 
-lsusb 
-killall vivaldi-bin 
-sudo umount -A
-sudo umount -a
-mount 
-mount --help
-lsblk
-df -h
-mount /dev/sda6
-cat /etc/fstab 
-sudo umount -a
-jobs
-killall vivaldi-bin
-lsusb 
-lsusb `
-lsusb 
-chmod +x taskete 
-test
-chmod +x test
-test
-Program
-./tes
-./test
-./Program 
-chmod +x Program 
-./Program 
-./test 
-./Program 
-./test 
-./Program 
-./test 
-ll
-./test 
-chmod +x ./test 
-./test 
-./Program 
-ln -s /home/fahim/Class/KH
-xinput list
-xinput float 17
-xinput reattach 17 3
-flatpak uninstall zoom
-chmod +x enableethnet.sh 
-chmod +x disableethnet.sh 
-nmcli 
-nmcli c
-xinput float 17
-ln -s /home/fahim/Class/FAK/
-chmod u+x UpdateCodes.sh 
-git config --global "tasnim0990@gmail.com"
-git config --global user.email "tasnim0990@gmail.com"
-ssh-keygen -t rsa -b 4096 -C "tasnim0990@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-cat /home/fahim/.ssh/id_rsa
-cat /home/fahim/.ssh/id_rsa.pub
-ssh -T git@github.com
-cat /home/fahim/.ssh/id_rsa.pub
-xclip -sel clip < ~/.ssh/id_rsa.pub
-ssh -T git@github.com
-git config --global user.name "gr523"
-ssh-keygen -t rsa -b 4096 -C "tasnim0990@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-xclip -sel clip < ~/.ssh/id_rsa.pub
-ssh -T git@github.com
-git status 
-git push origin master
-git push git@github.com:gr523/Codes.git
-git remote set-url origin git@github.com:gr523/Codes.git
-git push origin master
-git init
-git push origin master
-git add .
-git commit("new")
-git commit -m "new"
-git push origin master
-xinput list
-xinput float 17
-xinput --h
-xinput set 17 3
-xinput reattach 17 3
-xinput float 17
-ps -eF
-ps -eF | grep streamio
-chmod +x disable_internal_keyboard.sh 
-xinput reattach 17 3
-xinput list
-xinput disable 17
-xinput enable 17
-sensors
-lm-sensors
-watch sensors
-onboard
-sudo apt purge google-chrome-stable 
-echo 'deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Ubuntu_Bionic/ /' | sudo tee /etc/apt/sources.list.d/home:ungoogled_chromium.list
-curl -fsSL https://download.opensuse.org/repositories/home:ungoogled_chromium/Ubuntu_Bionic/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home:ungoogled_chromium.gpg > /dev/null
-sudo apt update
-sudo apt install ungoogled-chromium
-sudo apt remove google-chrome-stable 
-sudo apt list
-sudo apt list | grep adobe
-sudo add-apt-repository "deb http://archive.canonical.com/ubuntu `lsb_release -cs` partner"
-sudo apt update
-sudo apt install adobe-flashplugin
-sudo apt remove adobe-flashplugin
-sudo add-apt-repository "deb http://download.opensuse.org/repositories/home:/sarimkhan/xUbuntu_14.04/ ./"
-wget -q http://download.opensuse.org/repositories/home:/sarimkhan/xUbuntu_14.04/Release.key -O- | sudo apt-key add -
-sudo apt-get update
-sudo apt-get install ibus-avro-trusty
-wget -q http://download.opensuse.org/repositories/home:/sarimkhan/xUbuntu_14.04/Release.key -O- | sudo apt-key add -
-sudo apt-get install git ibus libibus-1.0-dev automake autoconf gjs gir1.2-ibus-1.0
-git clone git://github.com/sarim/ibus-avro.git
-chmod u+x JDownloader
-chmod u+x JDownloader.jar 
-chmod u+x xdman.jar 
-chmod u+x install.sh 
-./install.sh 
-sudo ./install.sh 
-ps -eF | grep xtreme
-ps -eF | grep xdman
-pkill xdman
-killall xdg-
-pwd
-crontab -l
-cron
-cron --help
-cron -h
-man cron
-chmod u+x test.sh 
-49 1 * * * ~/Desktop/test.sh
-cron 49 1 * * * ~/Desktop/test.sh
-sudo cron 49 1 * * * ~/Desktop/test.sh
-crontab -e
-sudo cron 49 1 * * * ~/Desktop/test.sh
-sudo crontab 49 1 * * * ~/Desktop/test.sh
-crontab -l
-crontab -e
-crontab -r
-ln -s /home/fahim/Class/Hum/Class Lectures-Slides ./Hum
-ln -s /home/fahim/Class/Hum/Class\ Lectures-Slides Hum
-chmod u+x KawAnime-0.4.2-x86_64.AppImage 
-lsblk
-df -h
-sudo apt purge playonlinux 
-sudo apt purge wine
-lsusb
-ln -s /home/fahim/Assassins Creed II/Assassin's Creed II
-ln -s '/home/fahim/Assassins Creed II/Assassin's Creed II'
-ln -s '/home/fahim/Assassins Creed II/Assassin's Creed II' ./
-ln -s '/home/fahim/Assassins Creed II/Assassin's Creed II'
-ln -s ~/Test/
-ln -s '~/Test/'
-ln -s 'home/fahim/Test/'
-ln -s '/home/fahim/Test/'
-ln -s /home/fahim/Test/
-ln -s '~/Test/'
-ln -s ~/Test/
-ln -s "~/Test/"
-ln -s /home/fahim/Assassins\ Creed\ II/Assassin's\ Creed\ II
-ln -s /home/fahim/Assassins Creed II/Assassin's Creed II
-mkdir 'newfol'
-rm newfol 'new fol'
-mv newfol 'new fol'
-cd new fol
-cd new\ fol
-cd ..\
-cd ..
-ln -s /home/fahim/Assassins\ Creed\ II/Assassin\'s\ Creed\ II
-lspci -vnn | grep VGA -A 12
-lspci command 
-lspci 
-lspci -v 00:02.0
-lspci -v -s 00:02.0
-ssh -T git@github.com
-sudo add-apt-repository ppa:lutris-team/lutris
-sudo apt update
-sudo apt install lutris
-sudo add-apt-repository ppa:lutris-team/lutris
-flatpak flathub install discord
-flatpak install flathub discord
-sudo apt update -blank
-sudo apt update 
-wine --version
-wine AssassinsCreedII.exe
-sudo wine AssassinsCreedII.exe
-sudo wine Among\ Us
-wine Among\ Us
-sudo wine Among\ Us
-wine Among\ Us
-chmod u+x AmongUS/
-chmod u+x AmongUS.sh
-chmod u+x ./AmongUS.sh
-sudo add-apt-repository ppa:lutris-team/lutris
-sudo apt update
-sudo apt install lutris
-sudo add-apt-repository ppa:lutris-team/lutris
-sudo apt install lutris
-sudo apt update
-sudo apt install lutris
-sudo add-apt-repository ppa:lutris-team/lutris
-wine AssassinsCreedIIGame.exe 
-wine AssassinsCreedII.exe 
-WINEPREFIX="/home/fahim/Assassins Creed II/test"winetricks
-WINEPREFIX=/home/fahim/Assassins Creed II/test winetricks
-wine UplayInstaller.exe 
-wine AssassinsCreedII.exe 
-wine --help
-sudo killall wineserver64 
-killall uplay
-killall Ubisoft
-sudo apt-get remove winbind && sudo apt-get install winbind
-wine AssassinsCreedII.exe 
-winserver -k9\
-winserver -k9
-winserver64 -k9
-pkill Uplay
-pkill Ubisoft
-pkill uc
-wineserver -k9
-mkdir testbottle
-WINEPREFIX="/home/fahim/Assassins Creed II/testbottle" winecfg
-sudo apt install winegecko
-wine winecfg
-wine winetricks
-cd ..
-winetricks
-wine AssassinsCreedII.exe 
-wineserver -k9
-killall uc
-killall upc
-winecfg
-wine winecfg
-winetricks 
-wine portable_avrokeyboard_5.5.0.exe 
-wineserver -k
-wineserver -k9
-winetricks 
-wine AssassinsCreedII.exe 
-wine wine_gecko-2.47-x86.msi 
-winetricks
-wine youtube-dl.exe 
-git push origin master
-git status 
-git log
-git status 
-git init
-git pull git@github.com:gr523/gitTesting.git
-git push origin master
-git status 
-git init
-git pull git@github.com:gr523/gitTesting.git
-git status 
-git push origin master
-git push git@github.com:gr523/gitTesting.git
-git pull git@github.com:gr523/gitTesting.git
-git init
-git pull git@github.com:gr523/gitTesting.git
-git status 
-git push origin master
-git push git@github.com:gr523/gitTesting.git
-git push https://github.com/gr523/gitTesting.git
-git remote 
-git remote -v
-git remote add origin git@github.com:gr523/gitTesting.git
-git push origin master
-git push git@github.com:gr523/gitTesting.git
-git log
-git add .
-git commit -m "Changes saved"
-git push origin master
-youtube-dl -F https://youtu.be/W7qI6kR2Ua4
-youtube-dl -f 136+249 youtube-dl -F https://youtu.be/W7qI6kR2Ua4
-youtube-dl -f 136+249 https://youtu.be/W7qI6kR2Ua4
-wine setup.exe 
-winetricks 
-wine AIO_Boot_Extractor.exe 
-wineserver -k9
-winetricks 
-wine setup.exe 
-winetricks 
-ll
-for i in ${ll};do chmod u+x ${i};done
-for i in ${ll};do echo ${i};done
-for i in `ll`;do echo ${i};done
-for i in `ls -l`;do echo ${i};done
-ls
-for i in `ls`;do echo ${i};done
-for i in `ls`;do chmod 777 ${i};done
-wine setup.exe 
-wineserver -k9
-git status 
-git init
-git add .
-git commit -m "testrun"
-git push origin master
-git push 
-git remote add git@github.com:gr523/OnlineClassLinks.git
-git push 
-git remote add https://github.com/gr523/OnlineClassLinks.git
-git remote -v
-git remote add OnlineClassLinks git@github.com:gr523/OnlineClassLinks.git
-git status 
-git push origin master\
-git push origin master
-git push
-git remote -v
-git push git@github.com:gr523/OnlineClassLinks.git
-git remote remove 
-git remote remove OnlineClassLinks
-git remote -v
-git remote add origin git@github.com:gr523/OnlineClassLinks.git
-git status 
-git push origin master
-git add .
-git commit -m "more testing"
-git push
-git push origin master
-git status 
-git add .
-git status 
-git push origin master
-git status 
-git add .
-git commit -m "more testing"
-git push origin master
-git stat
-git status 
-git rm -t1
-git rm t1
-git rm -r t1
-git rm -rf t1
-git status 
-git add .;git commit -m "deleted";git push origin master
-git status 
-cd ./Codes/
-git rm -rf ./ClassLinks
-git add .
-git rm --cached ClassLinksdd
-git rm --cached ClassLinksdd/
-git rm -rf --cached ClassLinksdd/
-git rm -rf ./ClassLinks
-git rm -rf ./ClassLinksdd
-git status 
-git add .
-git status 
-cd ./Co
-cd ./Codes/
-git status 
-wineserver -k9
-chmod u+x saveCL.sh 
-date
-date+%a
-date+ %a
-date '%a'
-date '%a %b%d %Y'`
-date '%a %b%d %Y'
-date +'%a %b%d %Y'
-date + '%a %b%d %Y'
-date +'%a %b%d %Y'
-date --help
-date +'%a %b%d %Y'
-killall vivaldi-bin 
-wine EpicInstaller-10.18.8-e6c82e6991294976ba96317c596f3e2a.msi
-wine --help
-wine -h
-man wine
-killall zoom 
-git pull
-git pull origin master
-git fetch 
-git status 
-git pull
-git pull origin master
-git status 
-git add .
-git pull origin master
-git commit -m "testing"
-git pull origin master
-git clone git@github.com:gr523/OnlineClassLinks.git
-git status 
-git add .
-git status 
-git commit -m "testing again"
-git push origin master
-git pull
-git pull origin master
-cd ../../Codes/
-cd ./ClassLinks/
-git status 
-git pull origin master
-git status 
-git pull origin master
-git pull
-git pull origin master
-git status 
-git add .
-git commit -m "lets see"
-git pull origin master
-git log
-git checkout 5cde627320fc65240bbd6ccf450bd902309b1b9a
-git checkout 778fc5c9e3ffd5cbfb148bb4818050ea037c8dca
-git merge
-git add .
-git merge
-git merge --abort
-git reset --merge
-git pull
-git pull master
-git pull origin master
-git status 
-git add .
-git commit -m "lets go"
-git push origin master
-git status 
-git add .;git commit -m "hello file"
-git pull
-git pull origin master
-git status 
-git fetch 
-git status 
-git merge
-git checkout master
-git pull
-git status 
-git stash 
-git pull origin master
-git status 
-git fetch origin master
-git reset --hard origin master
-git reset --hard origin/master
-lsblk
-blkid
-cat /etc/fstab 
-sudo umount ./data 
-sudo mount /dev/sda7
-sudo nano /etc/fstab 
-ll
-sudo chown -r fahim
-sudo chown -R fahim
-sudo chown -R fahim ./
-git status 
-git add .
-git commit -m "helo"
-nano ./t1/Untitled\ Document 
-git add .
-git commit -m "yahaa"
-git push origin master
-nano ./t1/Untitled\ Document 
-git add .
-git commit -m "yahaa"
-git push origin master
-git merge --help
-git fetch origin master
-git merge --no-commit
-git merge origin master--no-commit
-git merge master--no-commit
-git merge master --no-commit
-git merge master
-git merge origin/master
-git status 
-git add .;git commit -m "i think i understand now"
-git push origin master
-wineserver -k9
-wineservere -k9
-wineserver -k9
-wineserver -k
-wineserver64 -k
-git status 
-sudo chmod 766 -r ./
-sudo chmod 766 -R ./
-WINEPREFIX='/data/wineprefixes/Assassins Creed II' wine UplayInstaller.exe 
-git pull origin master
-killall discord
-wineserver -k9
-neofetch 
-chmod u+x WineKiller.sh 
-killall vivaldi
-killall chrome
-git log --oneline 
-git status 
-git log --oneline 
-sudo nano /etc/fstab 
-sudo apt search "Android Studio"
-./emulator --accel
-./emulator -accel-check
-git pull origin master
-killall gnome-screenshot 
-wine GenshinImpact_install_20200911204035.exe 
-wineserver -k9
-winetricks 
-wine GenshinImpact_install_20200911204035.exe 
-ln -s /home/fahim/Class/2nd Class
-ln -s /home/fahim/Class/2nd ./Class
-flatpak search midori
-flatpak search brave
-flatpak search "brave"
-flatpak search "brave" &
-jobs
-flatpak search "brave browser" 
-flatpak install flathub brave
-curl
-sudo apt install apt-transport-https curl
-curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -
-echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
-sudo apt update
-sudo apt install brave-browser
-flatpak search vivaldi
-sudo apt purge vivaldi
-sudo apt purge vivaldi-bin
-apt search vivaldi-st
-sudo apt purge vivaldi-stable 
-ulimit Hm
-ulimit -Hn
-sudo 
-sudo nano /etc/systemd/system.conf
-sudo nano /etc/systemd/user.conf
-ulimit -Hn
-sudo nano /etc/security/limits.conf
-sudo add-apt-repository ppa:kisak/kisak-mesa
-sudo dpkg --add-architecture i386 
-udo apt install libgl1-mesa-dri:i386
-sudo apt install libgl1-mesa-dri:i386
-sudo apt install mesa-vulkan-drivers mesa-vulkan-drivers:i386
-wine
-wine -V
-wine --version
-adb devices 
-iwconfig
-sudo apt purge midori
-gdb Program 
 sudo apt install spectrwm -y
 spectrwm 
 xinput --list
@@ -1998,3 +1387,614 @@ sudo apt install libvirt0
 sudo service libvirtd status
 man spectrwm | grep spawn -A10
 xprop | grep -i "wm_class"
+configs add n.
+configs add -n .
+configs status
+configs add -an
+configs add -un
+configs add -u;configs commit -m "`commitdate`";configs push origin master
+vi .bashrc
+neofetch 
+inxi 
+free
+top
+service status libvirt
+service status libvirtd
+systemctl status libvirtd
+sudo systemctl status libvirtd
+xprop | grep -i "wm_class"
+killall compton && compton &
+jobs
+killall compton && compton &
+bg
+jobs
+killall compton && compton &
+bash compton
+bash compton &
+bash --help 
+cd ./Configs/Scripts/
+ls
+nano runcompton.sh
+chmod +x runcompton.sh 
+bash runcompton.sh 
+xprop | grep -i "wm_class"
+neofetch 
+nm-applet 
+kazam
+ls
+cd ./Configs/
+ls
+cd ..
+cd ./Test/
+ls
+mkdir "Folder with Space"
+ls
+rm Folder\ with\ Space/
+rmdir Folder\ with\ Space/
+mkdir Folder\ with\ Space
+ls
+for i in `ls`;do echo ${i};done
+for i in `ll`;do echo ${i};done
+for i in `ls`;do cat ${i};done
+ls
+ls | cat
+for i in `ls|cat`;do cat ${i};done
+for i in `ls|cat`;do echo ${i};done
+cut
+ls
+ls | cut -f ' '
+cut --help
+for i in `ls|cat`;do printf ${i};done
+for i in `ls|cat`;do printf ${i}\n;done
+for i in `ls|cat`;do printf ${i};printf "\n"done
+for i in `ls|cat`;do printf ${i};printf "\n";done
+for i in `ll`;do printf ${i};printf "\n";done
+sudo apt search trayer
+flatpak search trayer
+sudo apt-get install trayer
+trayer --edge top --align right --SetDockType true --SetPartialStrut true --expand true --width 5 --height 12 --transparent true --alpha 0 --tint 0x000000
+trayer --edge top --align right --SetDockType true --SetPartialStrut true --expand true --width 5 --height 12 --transparent true --alpha 0 --tint 0x000000 &
+trayer --edge top --align right --SetDockType true --SetPartialStrut true --expand true --width 5 --height 12 --alpha 0 --tint 0x000000 &
+killall trayer 
+ls
+winetricks
+systemctl suspend
+systemctl suspend --help
+systemctl hibernate 
+wine jdk-8u101-windows-x64.exe 
+cd ./Asy
+wine jdk-8u101-windows-x64.exe 
+cd ./Asy
+wine jdk-8u101-windows-x64.exe 
+mkdir -p appdata/LocalLow/Sun
+wine jre
+wine java.exe
+wine javaws --viewer
+wine javaws 
+wine javaws -viewer
+wine java
+wine jre /s
+cd ./Asy/
+winecfg
+wine jdk-8u101-windows-x64.exe /s
+winecfg
+wine javaws.exe -viewer
+winecfg
+wine javaws.exe -viewer
+wine jdk-8u101-windows-x64.exe 
+winetricks 
+htop 
+sudo apt purge trayer
+flatpak list
+apt list | grep -i "celluloid"
+sudo apt remove celluloid
+sudo apt remove ruby-celluloid
+yop
+to
+top
+neofetch 
+sudo apt install xbacklight 
+xbacklight -inc 100
+sudo apt purge xbacklight 
+systemctl hibernate 
+systemctl suspend
+top
+killall Program 
+systemctl suspend
+cmatrix 
+cmatrix -C red
+cmatrix 
+neofetch 
+systemctl suspend
+nmcli c 
+nmcli c down virbr0 
+nmcli c 
+nmcli c down DS
+nmcli c down DSL
+nmcli c 
+trayer
+neofetch | at now + 5 seconds
+sleep 3 && neofetch
+nmcli c
+watch nmcli c
+nmcli c
+cd ./Desktop/tmp/
+ls
+chmod +x ethoff 
+cd ./Desktop/tmp/
+ls
+ls
+cd ./Desktop/tmp/
+vim blackout.sh
+chmod +x blackout.sh 
+pwd
+netstat 
+top
+nmcli c
+vim blackout.sh 
+nmcli c down Ethernet
+nmcli c
+nmcli c down Ethernet
+vim blackout.sh 
+ls
+ll blackout.sh 
+./blackout.sh 
+nmcli c up Ethernet
+./blackout.sh 
+nmcli c up Ethernet
+nmcli c 
+apt search at
+apt search "at"
+apt search "^at"
+apt search "^at&"
+apt search "^at$"
+sudo apt install at
+nmcli c down | at now + 5 
+nmcli c down | at now + 5 seconds
+nmcli c down Ethernet | at now + 5 seconds
+nmcli c down Ethernet | at now + 5s
+nmcli c down Ethernet | at now + 5 s
+at --h
+at --help
+man at
+nmcli c down Ethernet | at now + 5 second
+nmcli c down Ethernet | at now + 5
+nmcli c down Ethernet | at now + 1 minute
+nmcli c down Ethernet | at now + .5 minute
+nmcli c down Ethernet | at now + 5 sec
+nmcli c down Ethernet | at now + 5 S
+nmcli c down Ethernet | at now + 5S
+nmcli c up Ethernet | at -t `date -v+10S "+%Y%m%d%H%M%S"`
+nmcli c
+nmcli c up Ethernet | at -t `date -v+60S "+%Y%m%d%H%M%S"`
+vim ethoff
+vim blackout.sh 
+vim ethoff
+nmcli c
+vim ethoff
+nmcli c
+htop 
+synaptic --help
+vimtutor 
+top
+sudo su
+nmcli c
+xinput float 17
+sudo su
+systemctl suspend
+killall brave 
+which awk
+which grep
+systemctl suspend
+killall brave 
+apt install trayer
+trayer  --align left --monitor primary --width 200 --widthtype pixel --height 32 --transparent true --alpha 0 --tint 0x262626 --distance 600 --distancefrom left
+nm-applet 
+kazam
+killall trayer
+trayer
+killall trayer
+pkill trayer
+now
+terminator | at now + 1
+terminator | at now + 20
+terminator | at now + 0.5 minute
+terminator | at now + 1 minute
+at now + 1 minute terminator
+at
+man at
+killall compton;comton &
+killall compton;compton &
+killall compton
+which compton
+man compton
+killall compton && compton &
+neofetch 
+cmatrix 
+xev
+xmodmap -pke |grep 64
+xev
+xmodmap -pke |grep 12
+chmod +x ./Test/disableborder.sh 
+chmod +x ./Configs/Scripts/testing.sh 
+j4-dmenu-desktop --dmenu="dmenu -i"
+killall zoom
+top
+killall brave 
+flatpak list --installed
+flatpak list -h
+flatpak list --app
+flatpak list --app name
+flatpak list --app --columns name
+killall zoom
+apt list | grep -i pepper
+top
+systemctl suspend
+killall brave
+top
+killall zoom
+top
+killall brave 
+top
+htop 
+systemctl suspend
+killall brave 
+systemctl suspend
+top
+killall brave 
+apt search keystatus
+os-prober 
+sudo nano /etc/default/grub
+sudo update-grub
+sudo nano /etc/default/grub
+sudo vim /etc/default/grub
+sudo update-grub
+sudo vim /etc/default/grub
+sudo update-grub
+shutdown now
+killall zoom
+pkill zoom
+shutdown now
+killall brave
+cfdisk 
+systemctl status dhcpd
+systemctl status dhcpcd
+groups
+virt-install 
+cd /data
+ls
+rm 10000000_394237174924495_5850821243269724640_n.mp4 
+ls
+mkdir virtimages
+cp /var/lib/libvirt/images/archolinux.qcow2 ./virtimages/
+sudo cp /var/lib/libvirt/images/archolinux.qcow2 ./virtimages/
+blank
+top
+clearram
+top
+clearram
+top
+killall brave
+top
+htp[
+htop
+shutdown now
+killall brave
+clearram
+ls
+./AW_prod.jnlp 
+java ./AW_prod.jnlp 
+javaws ./AW_prod.jnlp 
+killall brave
+cd /boot
+ls
+shutdown now
+exit
+groups
+chmod 777 ./Test/
+cat /etc/fstab 
+xprop | grep -i "wm_class"
+configs add ./Fonts/*
+cd
+cd ./Desktop/
+ls
+cd ./tmp/
+ls
+cat ConfigUpdater.sh 
+chmod +x ConfigUpdater.sh 
+./ConfigUpdater.sh 
+alias configs
+./ConfigUpdater.sh 
+cd
+configs add ./Configs/Fonts/*
+configs commit -m "`commitdate`"
+configs status
+killall brave
+ls
+ll
+cd
+killall brave
+cd
+killall brave 
+top
+locale
+killall brave-browser
+top
+lspci
+lspci --help
+lspci -q
+lspci -nnk | grep -i vga -A3 | grep 'in use'
+apt install xf86-video-intel
+killall compton
+ls
+cd ./Test/
+cat file
+rm file
+echo "3" >file
+rm file
+echo "3" >file
+cat file
+rm file
+echo ${hostname}
+echo ${host}
+host=Test
+cd
+cd ./${host}
+host="Test"
+cd ./${host}
+cd
+cd ./${host}
+echo $host
+echo ${host}
+echo "127.0.0.1 localhost
+::1          localhost
+127.0.1.1 myhostname.localdomain myhostname" > file
+cat file
+cat /etc/host
+cat /etc/hosts
+rm file
+echo "3" >> file
+cat file
+echo "Hello ${host} " >> file 
+cat file
+echo $${username}
+echo ${username}
+echo ${USERNAME}
+echo ${USER}
+tldr
+tldr apt
+alias tldr
+man tldr
+chmod +x arch_config.sh 
+echo "Server = http://mirror.xeonbd.com/$repo/os/$arch"
+echo "Server = http://mirror.xeonbd.com/\$repo/os/\$arch"
+echo $host
+echo $hosts
+if [ $hosts=0 ];then echo "hello"
+if [ $hosts=0 ];then echo "hello";fi;
+hosts=fahim
+if [ $hosts=0 ];then echo "hello";fi;
+if [ ${hosts}=0 ];then echo "hello";fi;
+if [ ${hosts}=null ];then echo "hello";fi;
+if [ ${hosts}=0 ];then echo "hello";fi;
+if [ ${hosts} ];then echo "hello";fi;
+if [ ${hos} ];then echo "hello";fi;
+if [ ${host} ];then echo "hello";fi;
+if [ ;{host} ];then echo "hello";fi;
+if [ ${host} -eq 0 ];then echo "hello";fi;
+if [ ${host} -eq "" ];then echo "hello";fi;
+if [ ${host} = "" ];then echo "hello";fi;
+if [ ${host}="" ];then echo "hello";fi;
+if [ ${ho}="" ];then echo "hello";fi;
+if [ ${hosttt}="" ];then echo "hello";fi;
+if [ ${hosttt}=="" ];then echo "hello";fi;
+if [ ${hosttt}=="\n" ];then echo "hello";fi;
+if [ ${hosttt}==" " ];then echo "hello";fi;
+if [ ${hosttt} = "" ];then echo "hello";fi;
+if [ ${hosttt} == "" ];then echo "hello";fi;
+if [ ${hosttt} =: "" ];then echo "hello";fi;
+if [ -n ${hosttt} ];then echo "hello";fi;
+if [ -n ${host} ];then echo "hello";fi;
+echo $host
+if [ -n ${!host} ];then echo "hello";fi;
+if [ -n "${host}" ];then echo "hello";fi;
+if [ "${host}"="" ];then echo "hello";fi;
+if [ "${host}" = "" ];then echo "hello";fi;
+if [ "${shost}" = "" ];then echo "hello";fi;
+if [ "${host}" = "" ];then echo "hello";fi;
+if [ "${host?}" ];then echo "hello";fi;
+if [ "${shost?}" ];then echo "hello";fi;
+if [ "${host?}" ];then echo "hello";fi;
+if [ "${dhost?}" ];then echo "hello";fi;
+if [ "${host:+1}" ];then echo "hello";fi;
+if [ "${shost:+1}" ];then echo "hello";fi;
+if [ -n "${shost:+1}" ];then echo "hello";fi;
+if [ "${shost}" = "" ];then echo "hello";fi;
+if [ "${host}" = "" ];then echo "hello";fi;
+if [ ${wman} ="" ];then      wman="spectrwm"; fi
+if [ ${host} = "" ];then      host="hp-g4"; fi
+if [ ${username} = "" ];then     username="fahim"; fi
+
+if [ ${username} = "" ];then username="fahim"; fi
+if [ "${username}" = "" ];then username="fahim"; fi
+if [ ${user} = "" ];then user="fahim"; fi
+echo $user
+if [ "${user}" = "" ];then user="fahim"; fi
+echo $user
+cat ./Test/lightdm.conf 
+sudo chmod 776 ./Test/lightdm.conf 
+cat ./Test/lightdm.conf 
+cd ./Test/
+sed 's/greeter-session=/fucked' ./lightdm.conf 
+sed 's/greeter-session=/fucked/g' ./lightdm.conf 
+vim ./lightdm.conf 
+sed 's/greeter-session=/fucked' ./lightdm.conf 
+sed 's+greeter-session=+fucked+g' ./lightdm.conf 
+sed -i 's+greeter-session=+fucked+g' ./lightdm.conf 
+vim lightdm.conf 
+sed -i 's+greeter-session=+greeter-session=lightdm-gtk-greeter+g' ./lightdm.conf 
+username="fahim"
+echo $username 
+sed -i 's+autologin-user=+autologin-user="${username}"' ./lightdm.conf
+sed 's+autologin-user=+autologin-user="${username}_fool"+g' ./lightdm.conf
+sed "s+autologin-user=+autologin-user=${username}_fool+g" ./lightdm.conf
+vim /etc/sudoers
+sudo vim /etc/sudoers
+vim ./file 
+sed -i 's+# %wheel ALL=(ALL) ALL+ %wheel ALL=(ALL) ALL+g'
+sed -i 's+# %wheel ALL=(ALL) ALL+ %wheel ALL=(ALL) ALL+g' file
+cat file
+vim file
+sed 's+greeter-session=.*+fuck+g'
+sed 's+greeter-session=.*+fuck+g' file
+sed -i \'s+greeter-session=.*+fuck+g' file
+sed -i 's+greeter-session=.*+fuck+g' file
+cat file
+rm file
+vim file
+sed 's+(greeter-session=).*+$1nothing+g' file
+sed 's+(greeter-session=).*+$0nothing+g' file
+sed 's+(greeter-session=).*+$1+nothing+g' file
+sed 's+(greeter-session=).*+$1=nothing+g' file
+cat file
+sed 's+(greeter-session=).*+\1=nothing+g' file
+xprop | grep -i "wm_class"
+os-prober 
+cd
+configs statu
+configs status
+cd ./Test/
+cat file
+vim file
+vim /etc/locale.gen
+server="http://mirron.xeonbd.com/archlinux/\$repo/os/\$arch"
+echo $server 
+cat file
+alias update
+update="`echo 'file' > file`"
+update
+update=`echo 'file' > file`
+update
+chmod +x pre_install.sh 
+ll post_install.sh 
+chmod +x post_install.sh 
+cp ~/.spectrwm.conf ./
+cp -i ~/.spectrwm.conf ./
+ls
+cp ~/.bashrc ./
+cp ~/.config/terminator/config ./
+mkdir gitTesting
+vim ~/.bash_profile
+ls ~
+ls -a ~ bash
+cat ~/.Xauthority 
+ln -S ~/.config/ ./
+ln -s ~/.config/ ./
+rm -r Configs/
+rm -rf Configs/
+ln -s ~/Configs/ ./
+mount
+groups
+mkdir gitTesting >& /dev/null
+mkdir gitTesting &> /dev/null
+ls
+ls gitTesting/
+ll
+chmod 777 -r ./config 
+chmod -r 777 ./config 
+chmod 777 ./config/* 
+chmod 777 ./.config/* 
+cp -r ~/.config/ ./
+cd ./Test/
+cd ./Configs/
+cd ./Fonts/
+ls
+file-roller --help
+file-roller ./DroidSansMono.zip -e ~/Test
+apt serach picom
+apt serach "picom"
+apt-get serach "picom"
+sudo apt serach "picom"
+sudo apt serach compton
+cd
+killall terminator
+chmod -R 777 ./.config/
+cat ~/Configs/Scripts/autostart.sh 
+cp --help
+cp -r /usr/share/backgrounds/ ./
+ls
+chmod -R 777 ./backgrounds/
+ll ./backgrounds/
+tldr kazam
+man kazam
+cd
+cd ./Apps/ventoy-1.0.09/
+ls
+./Ventoy2Disk.sh 
+lsblk
+./Ventoy2Disk.sh -i /dev/sdb
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+cfdisk 
+sudo cfdisk 
+lsblk
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+lsblk
+mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+cd /mnt
+ls
+cd ./tmp/
+ls
+rm -rf ./
+cd
+cd /mnt
+rm -rf ./
+rm -rf .
+cd ..
+rm -rf ./mnt/
+sudo rm -rf ./mnt/
+umount /mnt
+sudo umount /mnt
+cd ./Apps/
+cd ./ventoy-1.0.09/
+ls
+ls ./ventoy/
+./Ventoy2Disk.sh 
+sudo ./Ventoy2Disk.sh -I /dev/sdb
+sudo umount -a
+cfdisk 
+sudo cfdisk 
+fdisk -l
+sudo fdisk -l
+sudo fdisk
+sudo fdisk --help
+vim /etc/systemd/logind.conf
+sudo vim /etc/systemd/logind.conf
+apt remove evolution
+vim /etc/systemd/logind.conf
+sudo vim /etc/systemd/logind.conf
+sudo systemctl restart systemd-logind
+sudo journalctl --unit=systemd-logind --follow
+sudo vim /etc/systemd/logind.conf
+sudo systemctl restart systemd-logind
+sudo journalctl --unit=systemd-logind --follow
+systemctl status acpid.service 
+sudo journalctl --unit=systemd-logind --follow
+sysctl suspend
+systemctl suspend
+echo $tty
+echo ${tty}
+echo $(tty)
+echo $(PATH)
+apt search pamixer
+apt search amixer
+systemctl status pulseaudio
+systemctl status pulseaudio-enable-autospawn.service 
+groups
+top
+clearram
+top
+systemctl restart lightdm
+systemctl restart lightdm.service
+configs status
+configs ls-tree -r -l --abbrev --full-name HEAD | sort -n -r -k 4 | head -n 10

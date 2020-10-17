@@ -4,812 +4,12 @@
 		"/home/fahim/Codes"
 	],
 	"last_version": 3211,
-	"last_window_id": 9,
+	"last_window_id": 10,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 748.0,
 		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"sta",
-						"start_j"
-					],
-					[
-						"st",
-						"start_i"
-					],
-					[
-						"vi",
-						"visited"
-					],
-					[
-						"max",
-						"maxstudents"
-					],
-					[
-						"id",
-						"id"
-					],
-					[
-						"stu",
-						"student"
-					],
-					[
-						"cour",
-						"courseinfo"
-					],
-					[
-						"cou",
-						"courseinfo"
-					],
-					[
-						"col",
-						"collectmarks"
-					],
-					[
-						"sho",
-						"showdetails"
-					],
-					[
-						"show",
-						"showdetails"
-					],
-					[
-						"gpa",
-						"gpa"
-					],
-					[
-						"co",
-						"collectmarks"
-					],
-					[
-						"ma",
-						"marks"
-					],
-					[
-						"fi",
-						"fillinfo"
-					],
-					[
-						"sec",
-						"section"
-					],
-					[
-						"de",
-						"dept"
-					],
-					[
-						"re",
-						"residence"
-					],
-					[
-						"string",
-						"string.h\tstandard header (deprecated)"
-					],
-					[
-						"in",
-						"inc\t#include <…>"
-					],
-					[
-						"lcm",
-						"lcmof2"
-					],
-					[
-						"ta",
-						"tables"
-					],
-					[
-						"lc",
-						"lcmof2"
-					],
-					[
-						"pri",
-						"primes"
-					],
-					[
-						"so",
-						"sorzero\tsorzero"
-					],
-					[
-						"vs",
-						"vreversesort\tvrsort"
-					],
-					[
-						"sor",
-						"sort\tsort"
-					],
-					[
-						"si",
-						"sieve"
-					],
-					[
-						"pus",
-						"push_back"
-					],
-					[
-						"exe",
-						"execute_script\tfunction"
-					],
-					[
-						"find",
-						"find_elements_by_link_text\tfunction"
-					],
-					[
-						"ex",
-						"execute_script\tfunction"
-					],
-					[
-						"fin",
-						"find_element_by_xpath\tfunction"
-					],
-					[
-						"c",
-						"common\tmodule"
-					],
-					[
-						"ce",
-						"clockend\tclockend"
-					],
-					[
-						"cs",
-						"clockstart\tclockstart"
-					],
-					[
-						"del",
-						"del_player"
-					],
-					[
-						"inse",
-						"insert_player"
-					],
-					[
-						"clu",
-						"clubname"
-					],
-					[
-						"pla",
-						"playername"
-					],
-					[
-						"f",
-						"flush\tparam"
-					],
-					[
-						"club",
-						"club2"
-					],
-					[
-						"inc",
-						"income"
-					],
-					[
-						"Cl",
-						"Clubs"
-					],
-					[
-						"s",
-						"sqrt\tfunction"
-					],
-					[
-						"fa",
-						"factorial\tfunction"
-					],
-					[
-						"ar",
-						"argvm"
-					],
-					[
-						"insert_",
-						"insert_front"
-					],
-					[
-						"ins",
-						"insert_back"
-					],
-					[
-						"pre",
-						"prev"
-					],
-					[
-						"pr",
-						"prev"
-					],
-					[
-						"ne",
-						"next"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/Python3.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Python3.sublime-build",
-							">"
-						],
-						[
-							"Packages/User/Python3.sublime-build",
-							"&>"
-						],
-						[
-							"Packages/User/Python3.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/User/Python3.sublime-build",
-						"&>"
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/Python3.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Python3.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/User/Python3.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/g++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							">"
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							"&>"
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							">>"
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							"terminal"
-						]
-					],
-					[
-						"Packages/User/g++.sublime-build",
-						">"
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/g++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							">"
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							"&>"
-						],
-						[
-							"Packages/User/g++.sublime-build",
-							"terminal"
-						]
-					],
-					[
-						"Packages/User/g++.sublime-build",
-						">"
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/gcc.sublime-build",
-							""
-						],
-						[
-							"Packages/User/gcc.sublime-build",
-							">"
-						],
-						[
-							"Packages/User/gcc.sublime-build",
-							"&>"
-						],
-						[
-							"Packages/User/gcc.sublime-build",
-							"terminal"
-						]
-					],
-					[
-						"Packages/User/gcc.sublime-build",
-						">"
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"men",
-						"View: Toggle Menu"
-					],
-					[
-						"pasc",
-						"Snippet: pascal"
-					],
-					[
-						"big",
-						"Snippet: BigMod"
-					],
-					[
-						"brow",
-						"Preferences: Browse Packages"
-					],
-					[
-						"sie",
-						"Snippet: sieve"
-					],
-					[
-						"se",
-						"Set Syntax: C++"
-					],
-					[
-						"coun",
-						"Snippet: countdivisors"
-					],
-					[
-						"packa",
-						"Package Control: Remove Package"
-					],
-					[
-						"asty",
-						"SublimeAStyleFormatter: Format Current File"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"set",
-						"Set Syntax: Python"
-					],
-					[
-						"bro",
-						"Preferences: Browse Packages"
-					],
-					[
-						"bash",
-						"Set Syntax: Bourne Again Shell (bash)"
-					],
-					[
-						"py",
-						"Set Syntax: Python"
-					],
-					[
-						"set Bas",
-						"Set Syntax: Bourne Again Shell (bash)"
-					],
-					[
-						"set sytax Pyt",
-						"Set Syntax: Python"
-					],
-					[
-						"Pckage V",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"view",
-						"View Package File"
-					],
-					[
-						"pack",
-						"Preferences: Browse Packages"
-					],
-					[
-						"ter",
-						"Terminus: Open Default Shell in Tab (View)"
-					],
-					[
-						"IN",
-						"Snippet: Input"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"terminas",
-						"Terminus: Open Default Shell in Tab (View)"
-					],
-					[
-						"INp",
-						"Snippet: Input"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 165.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/fahim/Codes/Testing/justout.cpp",
-				"/home/fahim/Codes/SPOJ/Bitmap.cpp",
-				"/home/fahim/Codes/Testing/justout.c",
-				"/home/fahim/Codes/Vjudge/Corona2/powerpuff.cpp",
-				"/home/fahim/Codes/UVA/KnightMoves.cpp",
-				"/home/fahim/Codes/X/courses.txt",
-				"/home/fahim/Codes/X/marks.txt",
-				"/home/fahim/Codes/X/students.txt",
-				"/home/fahim/Codes/Assignments/CSE_4108_11/test_file_io.cpp",
-				"/home/fahim/Desktop/Codes/Assignments/CSE_4108_11/190041139_Lab11.c",
-				"/home/fahim/Codes/X/Output.txt",
-				"/home/fahim/Codes/Assignments/CSE_4108_11/190041139_Lab11.c",
-				"/home/fahim/Codes/UVA/Mint.cpp",
-				"/home/fahim/Codes/Codeforces/Hamburgers.cpp",
-				"/home/fahim/Codes/UVA/TheLottery.cpp",
-				"/home/fahim/.config/sublime-text-3/Packages/User/g++.sublime-build",
-				"/home/fahim/Codes/Number Theory/GCDSum.cpp",
-				"/home/fahim/Desktop/TL-WR840N_files/menu.js",
-				"/home/fahim/Desktop/TL-WR840N.mhtml",
-				"/home/fahim/Desktop/TL-WR840N_files/MenuRpm.html",
-				"/home/fahim/Codes/UVA/summationoffourprimes.cpp",
-				"/home/fahim/Codes/UVA/twinprime.cpp",
-				"/home/fahim/Codes/RunTime/B.cpp",
-				"/home/fahim/Codes/RunTime/A.cpp",
-				"/home/fahim/Codes/Codeforces/DuffinLove.cpp",
-				"/home/fahim/Codes/Codeforces/FoxAndDividingCheese.cpp",
-				"/home/fahim/Codes/Codeforces/Watchmen.cpp",
-				"/home/fahim/.config/sublime-text-3/Packages/User/SublimeAStyleFormatter.sublime-settings",
-				"/home/fahim/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
-				"/home/fahim/Codes/Codeforces/AandBandChess.cpp",
-				"/home/fahim/Codes/Scripts/browserautomate1.py",
-				"/home/fahim/.config/sublime-text-3/Packages/User/Python3.sublime-build",
-				"/home/fahim/Codes/Codeforces/LuckyPermutationTriple.cpp",
-				"/home/fahim/Codes/Codeforces/DrazilandFactorial.cpp",
-				"/home/fahim/Codes/RunTime/K.cpp",
-				"/home/fahim/Codes/RunTime/H.cpp",
-				"/home/fahim/Codes/RunTime/E.cpp",
-				"/home/fahim/Codes/RunTime/C.cpp",
-				"/home/fahim/Codes/RunTime/D.cpp",
-				"/home/fahim/Codes/RunTime/J.cpp",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/Complete_System_Full_Code.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/insert.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/task4_CompleteSystem.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/printing.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/delete.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/task3_swap.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/task2_initial_system.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/swap.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/insertion.c",
-				"/home/fahim/Codes/Scripts/test_pt.py",
-				"/home/fahim/Codes/Scripts/strReplace.py",
-				"/home/fahim/Codes/Scripts/class_test.py",
-				"/home/fahim/Codes/Scripts/readfile.py",
-				"/home/fahim/.config/sublime-text-3/Packages/Python/Python.sublime-build",
-				"/home/fahim/.config/sublime-text-3/Packages/Default/arithmetic.py",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/test_4108_10.c",
-				"/home/fahim/Codes/Assignments/CSE_4108_10/task1_structure.c",
-				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task3_hardmode.c",
-				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task2_append.c",
-				"/home/fahim/Codes/Codeforces/GivenLengthandSumofDigits.cpp",
-				"/home/fahim/Codes/X/in",
-				"/home/fahim/Codes/X/out",
-				"/home/fahim/Codes/Scripts/hello.py",
-				"/home/fahim/Codes/Scripts/key.py",
-				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task1.c",
-				"/home/fahim/Codes/Assignments/FileIO/task2_append.c",
-				"/home/fahim/Codes/Assignments/FileIO/task3_hardmode.c",
-				"/home/fahim/Codes/Assignments/FileIO/task5_compare.c",
-				"/home/fahim/Codes/Assignments/FileIO/test.c",
-				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.3.c",
-				"/home/fahim/Codes/X/newname",
-				"/home/fahim/Codes/X/file.txt",
-				"/home/fahim/Codes/X/file",
-				"/home/fahim/Codes/Assignments/FileIO/task1.c",
-				"/home/fahim/Codes/Assignments/FileIO/task2.c",
-				"/home/fahim/Codes/Assignments/FileIO/task4_readwrite.c",
-				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.2.c",
-				"/home/fahim/Codes/Assignments/FileIO/file",
-				"/home/fahim/Codes/Codeforces/PaintingEggs.cpp",
-				"/home/fahim/Codes/Codeforces/PashaMaximizes.cpp",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/main.c",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/insertion.c",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/deletion.c",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/Dynamic.c",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/test_LiinkedList.c",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/printing.c",
-				"/home/fahim/Codes/Assignments/4108_8_LinkedList/VariableList.c",
-				"/home/fahim/Codes/Testing/test.cpp"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 114.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"'",
-					"rr",
-					"p",
-					"c",
-					"1",
-					"bfs",
-					"st.",
-					"st",
-					"section",
-					"prog",
-					"dept",
-					"year",
-					"marks",
-					"1",
-					"at",
-					"At",
-					"at",
-					"py",
-					"0",
-					"r",
-					"height",
-					"mem",
-					"0",
-					"arr",
-					"1",
-					"(r/pc+nc)/C",
-					"(r/pb+nb)/S",
-					"(r/pa+na)/B",
-					"*",
-					"pc",
-					"int",
-					"0",
-					"i",
-					"n",
-					"int",
-					"m",
-					"doclick",
-					"3",
-					"c",
-					"s1",
-					"+=",
-					"b",
-					"1",
-					"a",
-					"push_back",
-					"pop()",
-					"push",
-					"a38",
-					"bcbt",
-					"arr",
-					"n",
-					"l",
-					"i",
-					"int",
-					"\\n",
-					"del",
-					"Del",
-					"del",
-					"printf",
-					"-",
-					"printf",
-					"x",
-					"club2",
-					"club1",
-					"tmp",
-					"clubs",
-					"s",
-					".first",
-					"r",
-					"R",
-					"r",
-					"R",
-					"'",
-					"argvm",
-					"\"file.txt\"",
-					"argv[1]",
-					"ch",
-					"h",
-					"test",
-					"est",
-					"position",
-					"flag",
-					"test",
-					"printf(\"Error\\n\");\n            return;",
-					"err",
-					"Err",
-					"err",
-					"arr[i][j]",
-					"i",
-					"j",
-					"a",
-					"printf(\"Index Out of Bounds\\n\")",
-					"}",
-					"ans"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 57.0
-			},
-			"menu_visible": true,
-			"output.astyle_error_message":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 99.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "Packages/User/g++.sublime-build",
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"jus",
-						"Testing/justout.cpp"
-					],
-					[
-						"power",
-						"Vjudge/Corona2/powerpuff.cpp"
-					],
-					[
-						"Kni",
-						"UVA/KnightMoves.cpp"
-					],
-					[
-						"ju",
-						"Testing/justout.cpp"
-					],
-					[
-						"lott",
-						"UVA/TheLottery.cpp"
-					],
-					[
-						"summa",
-						"UVA/summationoffourprimes.cpp"
-					],
-					[
-						"wat",
-						"Codeforces/Watchmen.cpp"
-					],
-					[
-						"paint",
-						"Codeforces/PaintingEggs.cpp"
-					],
-					[
-						"tes",
-						"Testing/test.cpp"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 305.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1362.0
-	},
-	"windows":
-	[
 		{
 			"auto_complete":
 			{
@@ -1049,54 +249,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/home/fahim/Codes/X/Input.txt",
-					"settings":
-					{
-						"buffer_size": 6,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/fahim/.spectrwm.conf",
-					"settings":
-					{
-						"buffer_size": 11350,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/fahim/Codes/Testing/justout.cpp",
-					"settings":
-					{
-						"buffer_size": 254,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/fahim/Configs/Scripts/baraction.sh",
-					"settings":
-					{
-						"buffer_size": 1286,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/fahim/Codes/X/Output.txt",
-					"settings":
-					{
-						"buffer_size": 4,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "Packages/User/g++.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1426,14 +578,10 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/fahim/Codes",
-				"/home/fahim/Codes/Assignments",
-				"/home/fahim/Codes/Assignments/CSE_4202"
-			],
 			"file_history":
 			[
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/Task5.cpp",
+				"/home/fahim/Codes/ClassLinks/routine.js",
 				"/home/fahim/Configs/SpectrWM/baraction.sh",
 				"/home/fahim/Configs/Scripts/baraction.sh",
 				"/home/fahim/Configs/SpectrWM/spectrwm.conf",
@@ -1693,6 +841,1078 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": false,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 99.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/g++.sublime-build",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"jus",
+						"Testing/justout.cpp"
+					],
+					[
+						"2nd",
+						"Testing/2ndTest.cpp"
+					],
+					[
+						"power",
+						"Vjudge/Corona2/powerpuff.cpp"
+					],
+					[
+						"Kni",
+						"UVA/KnightMoves.cpp"
+					],
+					[
+						"ju",
+						"Testing/justout.cpp"
+					],
+					[
+						"lott",
+						"UVA/TheLottery.cpp"
+					],
+					[
+						"summa",
+						"UVA/summationoffourprimes.cpp"
+					],
+					[
+						"wat",
+						"Codeforces/Watchmen.cpp"
+					],
+					[
+						"paint",
+						"Codeforces/PaintingEggs.cpp"
+					],
+					[
+						"tes",
+						"Testing/test.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 305.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1366.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"kil",
+						"kill_brave"
+					],
+					[
+						"fas",
+						"fastio"
+					],
+					[
+						"spar",
+						"sparsetable"
+					],
+					[
+						"spa",
+						"sparsetable"
+					],
+					[
+						"sp",
+						"sparsebuild"
+					],
+					[
+						"pri",
+						"prizes"
+					],
+					[
+						"cou",
+						"count"
+					],
+					[
+						"occ",
+						"occur"
+					],
+					[
+						"b",
+						"binarysearch"
+					],
+					[
+						"fir",
+						"firstoccur"
+					],
+					[
+						"firs",
+						"firstfind"
+					],
+					[
+						"car",
+						"cards"
+					],
+					[
+						"swa",
+						"swaped"
+					],
+					[
+						"ba",
+						"battery"
+					],
+					[
+						"fa",
+						"fabs"
+					],
+					[
+						"ans",
+						"ans1"
+					],
+					[
+						"as",
+						"ans2"
+					],
+					[
+						"subl",
+						"sublime"
+					],
+					[
+						"sta",
+						"start_j"
+					],
+					[
+						"st",
+						"start_i"
+					],
+					[
+						"vi",
+						"visited"
+					],
+					[
+						"max",
+						"maxstudents"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"stu",
+						"student"
+					],
+					[
+						"cour",
+						"courseinfo"
+					],
+					[
+						"col",
+						"collectmarks"
+					],
+					[
+						"sho",
+						"showdetails"
+					],
+					[
+						"show",
+						"showdetails"
+					],
+					[
+						"gpa",
+						"gpa"
+					],
+					[
+						"co",
+						"collectmarks"
+					],
+					[
+						"ma",
+						"marks"
+					],
+					[
+						"fi",
+						"fillinfo"
+					],
+					[
+						"sec",
+						"section"
+					],
+					[
+						"de",
+						"dept"
+					],
+					[
+						"re",
+						"residence"
+					],
+					[
+						"string",
+						"string.h\tstandard header (deprecated)"
+					],
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"lcm",
+						"lcmof2"
+					],
+					[
+						"ta",
+						"tables"
+					],
+					[
+						"lc",
+						"lcmof2"
+					],
+					[
+						"so",
+						"sorzero\tsorzero"
+					],
+					[
+						"vs",
+						"vreversesort\tvrsort"
+					],
+					[
+						"sor",
+						"sort\tsort"
+					],
+					[
+						"si",
+						"sieve"
+					],
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"exe",
+						"execute_script\tfunction"
+					],
+					[
+						"find",
+						"find_elements_by_link_text\tfunction"
+					],
+					[
+						"ex",
+						"execute_script\tfunction"
+					],
+					[
+						"fin",
+						"find_element_by_xpath\tfunction"
+					],
+					[
+						"c",
+						"common\tmodule"
+					],
+					[
+						"ce",
+						"clockend\tclockend"
+					],
+					[
+						"cs",
+						"clockstart\tclockstart"
+					],
+					[
+						"del",
+						"del_player"
+					],
+					[
+						"inse",
+						"insert_player"
+					],
+					[
+						"clu",
+						"clubname"
+					],
+					[
+						"pla",
+						"playername"
+					],
+					[
+						"f",
+						"flush\tparam"
+					],
+					[
+						"club",
+						"club2"
+					],
+					[
+						"inc",
+						"income"
+					],
+					[
+						"Cl",
+						"Clubs"
+					],
+					[
+						"s",
+						"sqrt\tfunction"
+					],
+					[
+						"ar",
+						"argvm"
+					],
+					[
+						"insert_",
+						"insert_front"
+					],
+					[
+						"ins",
+						"insert_back"
+					],
+					[
+						"pre",
+						"prev"
+					],
+					[
+						"pr",
+						"prev"
+					],
+					[
+						"ne",
+						"next"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/fahim/Codes/X/Input.txt",
+					"settings":
+					{
+						"buffer_size": 15,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/fahim/.spectrwm.conf",
+					"settings":
+					{
+						"buffer_size": 8494,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/fahim/Configs/Scripts/baraction.sh",
+					"settings":
+					{
+						"buffer_size": 1279,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "250000000000\n",
+					"file": "/home/fahim/Codes/X/Output.txt",
+					"file_size": 2,
+					"file_write_time": 132471577150559775,
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/g++.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						"&>"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/g++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/g++.sublime-build",
+						">"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/g++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/g++.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/g++.sublime-build",
+						">"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/gcc.sublime-build",
+							""
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							">"
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							"&>"
+						],
+						[
+							"Packages/User/gcc.sublime-build",
+							"terminal"
+						]
+					],
+					[
+						"Packages/User/gcc.sublime-build",
+						">"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ui",
+						"UI: Select Color Scheme"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					],
+					[
+						"has",
+						"Set Syntax: Haskell"
+					],
+					[
+						"lua",
+						"Set Syntax: Lua"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"bash",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"mak",
+						"Set Syntax: Makefile"
+					],
+					[
+						"mak\t",
+						"Set Syntax: Makefile"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"wr",
+						"Word Wrap: Toggle"
+					],
+					[
+						"war",
+						"Word Wrap: Toggle"
+					],
+					[
+						"sie",
+						"Snippet: sieve"
+					],
+					[
+						"kmp",
+						"Snippet: kmpalgo"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"no",
+						"Set Syntax: OCamlyacc"
+					],
+					[
+						"pyt\t",
+						"Set Syntax: Python"
+					],
+					[
+						"C+",
+						"Set Syntax: C++"
+					],
+					[
+						"conf",
+						"Set Syntax: Git Config"
+					],
+					[
+						"wor",
+						"Word Wrap: Toggle"
+					],
+					[
+						"km",
+						"Snippet: kmpalgo"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"pasc",
+						"Snippet: pascal"
+					],
+					[
+						"big",
+						"Snippet: BigMod"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"se",
+						"Set Syntax: C++"
+					],
+					[
+						"coun",
+						"Snippet: countdivisors"
+					],
+					[
+						"asty",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"set",
+						"Set Syntax: Python"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"set Bas",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"set sytax Pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"Pckage V",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"ter",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"IN",
+						"Snippet: Input"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"terminas",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"INp",
+						"Snippet: Input"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 165.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/fahim/Codes"
+			],
+			"file_history":
+			[
+				"/home/fahim/Codes/Codeforces/MultiplicationTable.cpp",
+				"/home/fahim/Desktop/tmp/ConfigUpdater.sh",
+				"/home/fahim/Codes/Testing/justout.cpp",
+				"/home/fahim/Codes/Codeforces/MaximumofMaximumsofMinimums.cpp",
+				"/home/fahim/Codes/Theory/sparsetable/sparsetable.cpp",
+				"/home/fahim/Codes/Number_Theory/DivisorGeneretor.cpp",
+				"/home/fahim/Configs/Scripts/ws3.sh",
+				"/home/fahim/Configs/Scripts/autostart.sh",
+				"/home/fahim/Configs/Scripts/disableborder.sh",
+				"/home/fahim/Configs/Scripts/testing.sh",
+				"/home/fahim/Test/disableborder.sh",
+				"/home/fahim/Codes/Codeforces/PrizesPrizesmorePrizes.cpp",
+				"/home/fahim/Codes/Codeforces/Flowers.cpp",
+				"/home/fahim/Codes/Testing/2ndTest.cpp",
+				"/home/fahim/Codes/Runtime/C.cpp",
+				"/home/fahim/Codes/X/Output.txt",
+				"/home/fahim/Codes/Runtime/B.cpp",
+				"/home/fahim/Codes/Runtime/A.cpp",
+				"/home/fahim/Codes/Codeforces/ktree.cpp",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab3/1139_Task3.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab3/1139_Task2.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab3/1139_Task4.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab3/1139_Task1.c",
+				"/home/fahim/Desktop/untitled.txt",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/Task5.cpp",
+				"/home/fahim/Codes/ClassLinks/routine.js",
+				"/home/fahim/Configs/SpectrWM/baraction.sh",
+				"/home/fahim/Configs/Scripts/baraction.sh",
+				"/home/fahim/Configs/SpectrWM/spectrwm.conf",
+				"/home/fahim/.spectrwm.conf",
+				"/home/fahim/Configs/baraction.sh",
+				"/home/fahim/Configs/spectrwm.conf",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab3/Task4.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task1.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/bubbleSort.c",
+				"/home/fahim/Configs/SpectrWM/Custom/baraction.sh",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task5.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task4.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task3.c",
+				"/home/fahim/Codes/Assignments/CSE_4202/Lab2/1139_Task2.c",
+				"/home/fahim/Codes/Codeforces/VasyaAndBusketBall.cpp",
+				"/home/fahim/Desktop/testing.desktop",
+				"/home/fahim/Codes/Javascript/fullcfmod.js",
+				"/home/fahim/.bashrc",
+				"/home/fahim/Codes/SPOJ/Bitmap.cpp",
+				"/home/fahim/Codes/Testing/justout.c",
+				"/home/fahim/Codes/Vjudge/Corona2/powerpuff.cpp",
+				"/home/fahim/Codes/UVA/KnightMoves.cpp",
+				"/home/fahim/Codes/X/courses.txt",
+				"/home/fahim/Codes/X/marks.txt",
+				"/home/fahim/Codes/X/students.txt",
+				"/home/fahim/Codes/Assignments/CSE_4108_11/test_file_io.cpp",
+				"/home/fahim/Desktop/Codes/Assignments/CSE_4108_11/190041139_Lab11.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_11/190041139_Lab11.c",
+				"/home/fahim/Codes/UVA/Mint.cpp",
+				"/home/fahim/Codes/Codeforces/Hamburgers.cpp",
+				"/home/fahim/Codes/UVA/TheLottery.cpp",
+				"/home/fahim/.config/sublime-text-3/Packages/User/g++.sublime-build",
+				"/home/fahim/Codes/Number Theory/GCDSum.cpp",
+				"/home/fahim/Desktop/TL-WR840N_files/menu.js",
+				"/home/fahim/Desktop/TL-WR840N.mhtml",
+				"/home/fahim/Desktop/TL-WR840N_files/MenuRpm.html",
+				"/home/fahim/Codes/UVA/summationoffourprimes.cpp",
+				"/home/fahim/Codes/UVA/twinprime.cpp",
+				"/home/fahim/Codes/RunTime/B.cpp",
+				"/home/fahim/Codes/RunTime/A.cpp",
+				"/home/fahim/Codes/Codeforces/DuffinLove.cpp",
+				"/home/fahim/Codes/Codeforces/FoxAndDividingCheese.cpp",
+				"/home/fahim/Codes/Codeforces/Watchmen.cpp",
+				"/home/fahim/.config/sublime-text-3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+				"/home/fahim/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+				"/home/fahim/Codes/Codeforces/AandBandChess.cpp",
+				"/home/fahim/Codes/Scripts/browserautomate1.py",
+				"/home/fahim/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+				"/home/fahim/Codes/Codeforces/LuckyPermutationTriple.cpp",
+				"/home/fahim/Codes/Codeforces/DrazilandFactorial.cpp",
+				"/home/fahim/Codes/RunTime/K.cpp",
+				"/home/fahim/Codes/RunTime/H.cpp",
+				"/home/fahim/Codes/RunTime/E.cpp",
+				"/home/fahim/Codes/RunTime/C.cpp",
+				"/home/fahim/Codes/RunTime/D.cpp",
+				"/home/fahim/Codes/RunTime/J.cpp",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/Complete_System_Full_Code.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/insert.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task4_CompleteSystem.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/printing.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/delete.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task3_swap.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task2_initial_system.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/swap.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/insertion.c",
+				"/home/fahim/Codes/Scripts/test_pt.py",
+				"/home/fahim/Codes/Scripts/strReplace.py",
+				"/home/fahim/Codes/Scripts/class_test.py",
+				"/home/fahim/Codes/Scripts/readfile.py",
+				"/home/fahim/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/fahim/.config/sublime-text-3/Packages/Default/arithmetic.py",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/test_4108_10.c",
+				"/home/fahim/Codes/Assignments/CSE_4108_10/task1_structure.c",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task3_hardmode.c",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task2_append.c",
+				"/home/fahim/Codes/Codeforces/GivenLengthandSumofDigits.cpp",
+				"/home/fahim/Codes/X/in",
+				"/home/fahim/Codes/X/out",
+				"/home/fahim/Codes/Scripts/hello.py",
+				"/home/fahim/Codes/Scripts/key.py",
+				"/home/fahim/Codes/Assignments/190041139_CSE_4108_9_FileIO/task1.c",
+				"/home/fahim/Codes/Assignments/FileIO/task2_append.c",
+				"/home/fahim/Codes/Assignments/FileIO/task3_hardmode.c",
+				"/home/fahim/Codes/Assignments/FileIO/task5_compare.c",
+				"/home/fahim/Codes/Assignments/FileIO/test.c",
+				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.3.c",
+				"/home/fahim/Codes/X/newname",
+				"/home/fahim/Codes/X/file.txt",
+				"/home/fahim/Codes/X/file",
+				"/home/fahim/Codes/Assignments/FileIO/task1.c",
+				"/home/fahim/Codes/Assignments/FileIO/task2.c",
+				"/home/fahim/Codes/Assignments/FileIO/task4_readwrite.c",
+				"/home/fahim/Codes/Assignments/4108_9_FileIO/9.1.2.c",
+				"/home/fahim/Codes/Assignments/FileIO/file",
+				"/home/fahim/Codes/Codeforces/PaintingEggs.cpp",
+				"/home/fahim/Codes/Codeforces/PashaMaximizes.cpp",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/main.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/insertion.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/deletion.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/Dynamic.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/test_LiinkedList.c",
+				"/home/fahim/Codes/Assignments/4108_8_LinkedList/DoublyLinkedList/printing.c"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 114.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"kill",
+					"configs",
+					"tmp",
+					"sparsetable",
+					"table",
+					"h",
+					"j",
+					"i",
+					"sparse",
+					"kill",
+					"MOD+Shift+s",
+					"MOD+S",
+					"MOD+s",
+					"MOD+S",
+					"MOD+s",
+					"MOD+S",
+					"MOD+s",
+					"MOD+S",
+					"MOD+s",
+					"ws",
+					"1e/27/25",
+					"09/28/15",
+					"rgb:09/28/15",
+					"int",
+					"arr",
+					"mem[n][1]",
+					"mem[sum][yes]",
+					"findinfirst",
+					"vol",
+					"vert",
+					"horizon",
+					"vert",
+					"vertical",
+					"window",
+					"resize",
+					"raise",
+					"Raise",
+					"raise",
+					"MOD+Shift+space",
+					"comma",
+					"qui",
+					"git",
+					"            af=ap,bf=bp;\n            ans = cur; ",
+					"if(cur>ans){\n            af=ap,bf=bp;\n            ans = cur; \n        }",
+					"        if(cur>ans){\n            af=ap,bf=bp;\n            ans = cur; \n        }",
+					"_grow",
+					"focus",
+					"i",
+					"j",
+					"i",
+					"n",
+					"'",
+					"rr",
+					"p",
+					"c",
+					"1",
+					"bfs",
+					"st.",
+					"st",
+					"section",
+					"prog",
+					"dept",
+					"year",
+					"marks",
+					"1",
+					"at",
+					"At",
+					"at",
+					"py",
+					"0",
+					"r",
+					"height",
+					"mem",
+					"0",
+					"arr",
+					"1",
+					"(r/pc+nc)/C",
+					"(r/pb+nb)/S",
+					"(r/pa+na)/B",
+					"*",
+					"pc",
+					"int",
+					"0",
+					"i",
+					"n",
+					"int",
+					"m",
+					"doclick",
+					"3",
+					"c",
+					"s1",
+					"+=",
+					"b",
+					"1",
+					"a",
+					"push_back",
+					"pop()",
+					"push",
+					"a38",
+					"bcbt",
+					"arr",
+					"n",
+					"l",
+					"i",
+					"int",
+					"\\n",
+					"del",
+					"Del",
+					"del",
+					"printf",
+					"-",
+					"printf",
+					"x",
+					"club2",
+					"club1",
+					"tmp",
+					"clubs",
+					"s",
+					".first",
+					"r",
+					"R",
+					"r",
+					"R",
+					"'",
+					"argvm",
+					"\"file.txt\"",
+					"argv[1]",
+					"ch"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
@@ -1711,7 +1931,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6,
+								"buffer_size": 15,
 								"regions":
 								{
 								},
@@ -1730,24 +1950,30 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
 						{
 							"buffer": 1,
 							"file": "/home/fahim/.spectrwm.conf",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 11350,
+								"buffer_size": 8494,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										11350,
-										11350
+										3185,
+										3185
 									]
 								],
 								"settings":
@@ -1755,10 +1981,10 @@
 									"syntax": "Packages/Makefile/Makefile.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 2009.0,
+								"translation.y": 32.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1769,49 +1995,19 @@
 					[
 						{
 							"buffer": 2,
-							"file": "/home/fahim/Codes/Testing/justout.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 254,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										149,
-										149
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
 							"file": "/home/fahim/Configs/Scripts/baraction.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1286,
+								"buffer_size": 1279,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1111,
-										1111
+										393,
+										393
 									]
 								],
 								"settings":
@@ -1820,26 +2016,20 @@
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 714.0,
+								"translation.x": 26.0,
+								"translation.y": 350.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
+						},
 						{
-							"buffer": 4,
+							"buffer": 3,
 							"file": "/home/fahim/Codes/X/Output.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4,
+								"buffer_size": 13,
 								"regions":
 								{
 								},
@@ -1858,7 +2048,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1898,7 +2088,7 @@
 				"cols":
 				[
 					0.0,
-					0.261494222297,
+					0.225130923495,
 					1.0
 				],
 				"rows":
@@ -1908,7 +2098,7 @@
 					1.0
 				]
 			},
-			"menu_visible": false,
+			"menu_visible": true,
 			"output.astyle_error_message":
 			{
 				"height": 0.0
